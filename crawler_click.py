@@ -18,6 +18,7 @@ Usage:
 import argparse
 import json
 import os
+import random
 import re
 import logging
 from datetime import datetime
@@ -146,7 +147,8 @@ def get_video_title(page) -> str:
 
 def fetch_trending_seed(api_key: str) -> str | None:
     """
-    Fetch the first trending (most popular) video in Brazil via YouTube Data API.
+    Fetch a random trending video in Brazil via YouTube Data API.
+    Requests 50 most popular videos and picks one at random.
     Returns the video URL or None on failure.
     """
     url = "https://www.googleapis.com/youtube/v3/videos"
@@ -154,7 +156,7 @@ def fetch_trending_seed(api_key: str) -> str | None:
         "part": "id",
         "chart": "mostPopular",
         "regionCode": "BR",
-        "maxResults": 1,
+        "maxResults": 50,
         "key": api_key,
     }
     try:
@@ -163,8 +165,12 @@ def fetch_trending_seed(api_key: str) -> str | None:
         data = resp.json()
         items = data.get("items", [])
         if items:
-            video_id = items[0]["id"]
-            log.info(f"Trending seed from API: {video_id}")
+            chosen = random.choice(items)
+            video_id = chosen["id"]
+            log.info(
+                f"Picked random trending seed: {video_id} "
+                f"(#{items.index(chosen)+1} out of {len(items)} trending videos)"
+            )
             return f"https://www.youtube.com/watch?v={video_id}"
     except Exception as e:
         log.warning(f"YouTube Data API call failed: {e}")

@@ -57,9 +57,14 @@ def build_graph(videos: list[dict], edges: list[dict]) -> nx.DiGraph:
             watch_time=v.get("watch_time", -1),
         )
 
-    # Add edges
+    # Count edge occurrences for weights
+    edge_counts: Counter = Counter()
     for e in edges:
-        G.add_edge(e["source"], e["target"], iteration=e.get("iteration", -1))
+        edge_counts[(e["source"], e["target"])] += 1
+
+    # Add edges with weights
+    for (src, tgt), weight in edge_counts.items():
+        G.add_edge(src, tgt, weight=weight)
 
     return G
 
@@ -180,9 +185,15 @@ def visualize_pyvis(G: nx.DiGraph, output_path: str = "graph.html"):
         label = title_text[:30] + "..." if len(title_text) > 30 else title_text
         net.add_node(node_id, label=label, title=tooltip, size=size, color=color)
 
-    # Add edges
-    for src, tgt in G.edges():
-        net.add_edge(src, tgt)
+    # Add edges with width proportional to weight
+    for src, tgt, data in G.edges(data=True):
+        weight = data.get("weight", 1)
+        net.add_edge(
+            src, tgt,
+            value=weight,
+            title=f"weight: {weight}",
+            width=1 + (weight - 1) * 2,
+        )
 
     net.save_graph(output_path)
     print(f"Interactive graph saved to {output_path}")
