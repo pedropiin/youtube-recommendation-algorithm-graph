@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 5,
+    "seed_video_id": "V5tG3IG9z7o",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:33:37.627670",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "V5tG3IG9z7o",
+      "url": "https://www.youtube.com/watch?v=V5tG3IG9z7o",
+      "title": "Ancelotti resolvendo o problema da seleção 😂 #humor #brasil",
+      "description": null,
+      "transcript": "Pesquisar transcrição Vini, Rafinha, vem aqui. Opa, professor. Opa, V, chuta essa bola aí no agora. Agora vai lá você, Rafinha. É por causa do vento. Embaixadinha aí, Vin. Aqui, ó. Aqui, ó. Toma p aqui, ó. Por causa do joelho. Joelho, né? Tá lesionado. É lesão. Agora você V. Quanto que é? 3 x 5 que é rapaz. Eu virei foi jogador. Sentido de você, Rafinha, quanto que é? 2 x 10. 10. Tem 10. Você tem rapaz. Não lembro não. Acho que eu já sei o que aconteceu. N veste essa camisa aqui. Oxe, essa aqui, Rafinha. Barcelona. Agora me responde, quanto que é a raiz quadrada de 144³ 1728. É certo. Você, Rafinha, [música] quanto que é 133 x 7/ 4? 232,75. Acertou também vindo no gol você, Rafinha. É baixadinha só para garantir. Já sei que a gente vai fazer, mas a gente vai jogar com duas camisas. Ah, e eles não vão brigar não. Ninguém precisa saber. É só você quando fizer gol não tirar a camisa, mas fica assim quente, né? É quente. Mas o exa, né? É. Tem ponto. Sou eu. Você não v me encher a paciência não? Eu tô destruindo. Você não deixa eu jogar?",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:33:06.429983"
+    },
+    {
+      "video_id": "uKofbrV8Uxc",
+      "url": "https://www.youtube.com/watch?v=uKofbrV8Uxc",
+      "title": "Ancelotti resolvendo o problema da seleção 😂 #humor #brasil",
+      "description": null,
+      "transcript": "Pesquisar transcrição Vini, Rafinha, vem aqui. Opa, professor. Opa, V, chuta essa bola aí no agora. Agora vai lá você, Rafinha. É por causa do vento. Embaixadinha aí, Vin. Aqui, ó. Aqui, ó. Toma p aqui, ó. Por causa do joelho. Joelho, né? Tá lesionado. É lesão. Agora você V. Quanto que é? 3 x 5 que é rapaz. Eu virei foi jogador. Sentido de você, Rafinha, quanto que é? 2 x 10. 10. Tem 10. Você tem rapaz. Não lembro não. Acho que eu já sei o que aconteceu. N veste essa camisa aqui. Oxe, essa aqui, Rafinha. Barcelona. Agora me responde, quanto que é a raiz quadrada de 144³ 1728. É certo. Você, Rafinha, [música] quanto que é 133 x 7/ 4? 232,75. Acertou também vindo no gol você, Rafinha. É baixadinha só para garantir. Já sei que a gente vai fazer, mas a gente vai jogar com duas camisas. Ah, e eles não vão brigar não. Ninguém precisa saber. É só você quando fizer gol não tirar a camisa, mas fica assim quente, né? É quente. Mas o exa, né? É. Tem ponto. Sou eu. Você não v me encher a paciência não? Eu tô destruindo. Você não deixa eu jogar?",
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:33:23.181882"
+    }
+  ],
+  "edges": [
+    {
+      "source": "V5tG3IG9z7o",
+      "target": "uKofbrV8Uxc",
+      "iteration": 1
+    }
+  ]
+}

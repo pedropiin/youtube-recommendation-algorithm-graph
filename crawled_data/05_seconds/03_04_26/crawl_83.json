@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 50,
+    "watch_time_seconds": 5,
+    "seed_video_id": "0ONdDfdvz4U",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T07:59:05.143159",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "0ONdDfdvz4U",
+      "url": "https://www.youtube.com/watch?v=0ONdDfdvz4U",
+      "title": "JUROOOOOO 🤣🤣🤣",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-04T07:57:29.622414"
+    }
+  ],
+  "edges": []
+}

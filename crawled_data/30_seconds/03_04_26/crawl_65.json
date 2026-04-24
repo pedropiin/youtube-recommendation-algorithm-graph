@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 30,
+    "seed_video_id": "227wGH11SW8",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T10:21:34.386112",
+    "total_videos": 3,
+    "total_edges": 2
+  },
+  "videos": [
+    {
+      "video_id": "227wGH11SW8",
+      "url": "https://www.youtube.com/watch?v=227wGH11SW8",
+      "title": "O LEOZINHO ACHOU UMA CAMERA MAGICA E AJUDOU TODO MUNDO!! #emillyvickof #katlenof #leozinho",
+      "description": null,
+      "transcript": "Pesquisar transcrição O que é isso, void? Leozinho, a câmera dourada é minha, você não merece ela. Poxa, o que eu vou fazer com essa câmera velha? Essa câmera realmente combina comigo. Ainda bem que o bobão do Leozinho ficou com a câmera velha. Senhora, eu tava passando e te achei linda. Posso tirar uma foto sua? Obrigado, meu filho. Pode tirar. [música] Todas as minhas dores sumiram. E eu [música] me sinto mais nova. O meu cabelo está começando a ficar branco. Essa câmera tem o poder de tirar as dores e deixar [música] as pessoas mais novas. Dê dois cliques na tela para eu ajudar todo mundo. Oxe, eu tô com muita dor. [música][canto] O que você fez? Eu não sinto mais nenhuma dor. Agora nenhuma daquelas pessoas [música] estão sentindo dor. [grito] O que está acontecendo?",
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-04T10:18:35.522311"
+    },
+    {
+      "video_id": "rC_BGcupuQo",
+      "url": "https://www.youtube.com/watch?v=rC_BGcupuQo",
+      "title": "💘💦🌳 A dama mais engraçada: ‪@MariannaAlexandre‬",
+      "description": "💘💦🌳 A dama mais engraçada:  ⁨@MariannaAlexandre⁩",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 30,
+      "timestamp": "2026-04-04T10:19:18.864827"
+    },
+    {
+      "video_id": "K2nTHoMLXuk",
+      "url": "https://www.youtube.com/watch?v=K2nTHoMLXuk",
+      "title": "Dudamaryah ❤️ (Com receitas🎂🍫) #receitas #dudamariahtiktok #dudamaryah",
+      "description": "uma série nova que no canal de slime que é da Dudamaryah não são de slime também de receitas, asmar,organizando e etc💜",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 30,
+      "timestamp": "2026-04-04T10:19:59.094505"
+    }
+  ],
+  "edges": [
+    {
+      "source": "227wGH11SW8",
+      "target": "rC_BGcupuQo",
+      "iteration": 1
+    },
+    {
+      "source": "rC_BGcupuQo",
+      "target": "K2nTHoMLXuk",
+      "iteration": 2
+    }
+  ]
+}

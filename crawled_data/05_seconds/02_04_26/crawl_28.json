@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 5,
+    "seed_video_id": "E_pQni-6m4c",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T04:40:17.596380",
+    "total_videos": 3,
+    "total_edges": 2
+  },
+  "videos": [
+    {
+      "video_id": "E_pQni-6m4c",
+      "url": "https://www.youtube.com/watch?v=E_pQni-6m4c",
+      "title": "Mestres Do Universo | Teaser Trailer Oficial Dublado",
+      "description": "Mestres Do Universo | Teaser Trailer Oficial Dublado\n\nAssista ao novo teaser de #MestresDoUniverso, trazendo de volta #GarciaJúnior como a voz de #HeMan - 4 de junho nos cinemas!\n\nSomos o melhor destino para quem busca trailers assim que eles são lançados.\n\nSe você é fã de cinema como a gente, INSCREVA-SE e receba todas as novidades dos seus filmes favoritos!\n\n► Baixe nossos apps:\nAndroid: https://goo.gl/ZOknfm\niOS: https://goo.gl/hFbnMY\n\n► Compre ingressos para as melhores estreias: https://www.ingresso.com\n\n► Assine UOL e Ganhe R$ 20 Por Mês Para Usar com cinema na Ingresso.com: https://bit.ly/3yX0hyd\n\n► Siga a Ingresso no INSTAGRAM:   / ingressocom  \n\n► Curta a Ingresso no FACEBOOK:   / ingressocom  \n\n► Fique por dentro das novidades do universo do cinema no nosso canal no WHATSAPP: https://whatsapp.com/channel/0029Va58...",
+      "transcript": "Pesquisar transcrição Algumas vozes nunca vão embora e a espera chegou ao fim. Pelos poderes. E agora a voz que marcou uma geração está de volta. Pelos poderes de Grace, eu tenho a força. Mestres do universo, 4 de junho, somente nos cinemas. M.",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T04:38:00.028977"
+    },
+    {
+      "video_id": "ctJD6CEmzw8",
+      "url": "https://www.youtube.com/watch?v=ctJD6CEmzw8",
+      "title": "SUPERGIRL Trailer Dublado Oficial (2026)",
+      "description": "SUPERGIRL Trailer Dublado Oficial (2026) Milly Alcock, David Corenswet\n© 2026 - Warner Bros",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T04:38:21.595826"
+    },
+    {
+      "video_id": "d5qMOciQY2o",
+      "url": "https://www.youtube.com/watch?v=d5qMOciQY2o",
+      "title": "POLÊMICA com SUPERMAN! SUPERGIRL NOVO TRAILER - REAÇÃO e ANÁLISE COMPLETA",
+      "description": "ENTRE NO GRUPO VIP de PROMOÇÕES da BATCAVERNA\nTelegram: https://t.me/batcavernaHQs\nWhatsapp: https://chat.whatsapp.com/Ew6JmDEPZvd...\n\nVamos falar das novidades do DCU.",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T04:38:41.979739"
+    }
+  ],
+  "edges": [
+    {
+      "source": "E_pQni-6m4c",
+      "target": "ctJD6CEmzw8",
+      "iteration": 1
+    },
+    {
+      "source": "ctJD6CEmzw8",
+      "target": "d5qMOciQY2o",
+      "iteration": 2
+    }
+  ]
+}

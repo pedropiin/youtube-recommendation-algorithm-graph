@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 30,
+    "seed_video_id": "fVur0cfT200",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T20:23:01.097337",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "fVur0cfT200",
+      "url": "https://www.youtube.com/watch?v=fVur0cfT200",
+      "title": "Agora entendi pq o Brasil apanhou da França com um a mais…",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-03-31T20:19:27.349074"
+    },
+    {
+      "video_id": "-rePkmiD5XU",
+      "url": "https://www.youtube.com/watch?v=-rePkmiD5XU",
+      "title": "AO VIVO: RD CONGO X JAMAICA | FINAL DA REPESCAGEM MUNDIAL DA COPA DO MUNDO FIFA 2026",
+      "description": "VALE A VAGA NA COPA DO MUNDO FIFA 2026!\n\nAssista à partida entre RD Congo x Jamaica, AO VIVO E COM IMAGENS, valendo a vaga na Copa do Mundo FIFA 2026!\n\n#CopaDoMundoNaCazéTV",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 30,
+      "timestamp": "2026-03-31T20:21:12.458120"
+    }
+  ],
+  "edges": [
+    {
+      "source": "fVur0cfT200",
+      "target": "-rePkmiD5XU",
+      "iteration": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 30,
+    "seed_video_id": "d5qMOciQY2o",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T01:54:25.642150",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "d5qMOciQY2o",
+      "url": "https://www.youtube.com/watch?v=d5qMOciQY2o",
+      "title": "POLÊMICA com SUPERMAN! SUPERGIRL NOVO TRAILER - REAÇÃO e ANÁLISE COMPLETA",
+      "description": "ENTRE NO GRUPO VIP de PROMOÇÕES da BATCAVERNA\nTelegram: https://t.me/batcavernaHQs\nWhatsapp: https://chat.whatsapp.com/Ew6JmDEPZvd...\n\nVamos falar das novidades do DCU.",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T01:52:49.868861"
+    }
+  ],
+  "edges": []
+}

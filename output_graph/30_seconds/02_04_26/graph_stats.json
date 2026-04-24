@@ -1,0 +1,138 @@
+{
+  "num_nodes": 846,
+  "num_edges": 987,
+  "density": 0.0013806706114398422,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 40,
+  "num_strongly_connected_components": 551,
+  "avg_in_degree": 1.1666666666666667,
+  "avg_out_degree": 1.1666666666666667,
+  "max_in_degree": 14,
+  "max_out_degree": 9,
+  "top_in_degree": [
+    {
+      "video_id": "MndPUBqYQvI",
+      "in_degree": 14,
+      "title": "Santo Rosário | 39° Dia | Tríduo Pascal 2026 | 03/04 | 03:40 | Live Ao vivo"
+    },
+    {
+      "video_id": "mUVjTDCYJg4",
+      "in_degree": 10,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "in_degree": 7,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "foYfAL9R08M",
+      "in_degree": 5,
+      "title": "LINHAS CRUZADAS | AS QUATRO FACES DE JESUS | 02/04/2026"
+    },
+    {
+      "video_id": "ydAnMngY08U",
+      "in_degree": 5,
+      "title": "VLOG DA MUDANÇA: ORGANIZANDO TUDO, CLOSET, QUARTO DA GIGI, COZINHA, E ESVAZIANDO AS CAIXAS - PARTE 2"
+    },
+    {
+      "video_id": "7--HXylw1lk",
+      "in_degree": 5,
+      "title": "'PRIMEIRO ATAQUE COM MÍSSEIS EM AL-ARQAB': Ataque mortal contra base americana, mísseis de cruzei..."
+    },
+    {
+      "video_id": "Xmo3GfpmfSE",
+      "in_degree": 5,
+      "title": "Caso Gisele: delegado revela bastidores da investigação que prendeu tenente-coronel | True Crime #13"
+    },
+    {
+      "video_id": "GD0UCqWhzKI",
+      "in_degree": 5,
+      "title": "🔥 Mistérios sombrios e o presidente 🇺🇸 | MARATONA: 2 HORAS DE INEXPLICÁVEL COM WILLIAM SHATNER"
+    },
+    {
+      "video_id": "ondR7wKeAH0",
+      "in_degree": 4,
+      "title": "‘Patricinha do Golpe’ volta a ser investigada no DF depois de sair da prisão"
+    },
+    {
+      "video_id": "Y8qLz56az98",
+      "in_degree": 4,
+      "title": "OLIVER STUENKEL - Flow #582"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "MndPUBqYQvI",
+      "out_degree": 9,
+      "title": "Santo Rosário | 39° Dia | Tríduo Pascal 2026 | 03/04 | 03:40 | Live Ao vivo"
+    },
+    {
+      "video_id": "mUVjTDCYJg4",
+      "out_degree": 6,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "out_degree": 6,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "sEQG0GVxTV0",
+      "out_degree": 6,
+      "title": "Irã, Hezbollah e Houthis INCENDIAM Israel em ataques consecutivos ARREPIANTES | Tel Aviv É ATINGI..."
+    },
+    {
+      "video_id": "ydAnMngY08U",
+      "out_degree": 5,
+      "title": "VLOG DA MUDANÇA: ORGANIZANDO TUDO, CLOSET, QUARTO DA GIGI, COZINHA, E ESVAZIANDO AS CAIXAS - PARTE 2"
+    },
+    {
+      "video_id": "a3V_OXzQg7k",
+      "out_degree": 5,
+      "title": "CHAPECOENSE 0 X 4 ATLÉTICO-MG | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "V4JMgL46I0s",
+      "out_degree": 5,
+      "title": "FLUMINENSE 3 X 1 CORINTHIANS | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO 2026"
+    },
+    {
+      "video_id": "zSN0ospdIaE",
+      "out_degree": 4,
+      "title": "TV Canção Nova - AO VIVO"
+    },
+    {
+      "video_id": "7--HXylw1lk",
+      "out_degree": 4,
+      "title": "'PRIMEIRO ATAQUE COM MÍSSEIS EM AL-ARQAB': Ataque mortal contra base americana, mísseis de cruzei..."
+    },
+    {
+      "video_id": "pPybRkhxi50",
+      "out_degree": 4,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    }
+  ],
+  "scc_sizes": [
+    30,
+    24,
+    21,
+    20,
+    13,
+    13,
+    12,
+    11,
+    10,
+    10,
+    9,
+    9,
+    9,
+    7,
+    7,
+    6,
+    6,
+    6,
+    6,
+    5
+  ]
+}

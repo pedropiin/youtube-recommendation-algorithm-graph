@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 50,
+    "watch_time_seconds": 5,
+    "seed_video_id": "3SGfrfBaAdI",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T03:31:37.575596",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "3SGfrfBaAdI",
+      "url": "https://www.youtube.com/watch?v=3SGfrfBaAdI",
+      "title": "O filho do Ceifador é sequestrado #fyp #dublagem #tirinhas #minecraft #fandub",
+      "description": "Créditos: ‪@ChristophersGenie‬",
+      "transcript": "Pesquisar transcrição Quem que é doce de graça? Você vai ganhar um. Você vai ganhar um. E você é idiota. Você pegou a criança do Seifador. Desculpa por isso. Por favor, não conta pro seu pai. Uh, ainda bem que ele foi embora. Pedo não estamos mentindo agora. Vaza. Hã? Sequestradores. A gente não é sequestradores. Somos ladrões de doce. Podemos pegar um pouco?",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-04T03:29:44.616977"
+    },
+    {
+      "video_id": "zr6QJDlGEjY",
+      "url": "https://www.youtube.com/watch?v=zr6QJDlGEjY",
+      "title": "Meus Melhores Animais de Estimação de 2025 (até agora)",
+      "description": "#petshop  #filme\n\nAté agora, em 2025, eu criei mais de 10 animais de estimação extremamente únicos de todos os cantos do mundo. Então transformei todos os vídeos separados em uma grande compilação de filme. Axolotes, piranhas, viúvas-negras e até cobras de duas cabeças... Então pega uma pizza e uns petiscos, porque você está prestes a embarcar numa jornada insana.\n\nPor favor, se inscreva :D",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-04T03:30:01.164341"
+    }
+  ],
+  "edges": [
+    {
+      "source": "3SGfrfBaAdI",
+      "target": "zr6QJDlGEjY",
+      "iteration": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 5,
+    "seed_video_id": "c4zoWAg5lOA",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:12:47.234818",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "c4zoWAg5lOA",
+      "url": "https://www.youtube.com/watch?v=c4zoWAg5lOA",
+      "title": "Acho que o passarinho não ta bem🤣#motivação #inspiração #felicidade #divertido #escola #professor",
+      "description": "#disciplina #motivação #motivacional #frases #inspiração #mindset #esperança #amigos #jesus #deusébomotempotodo #deus #deusnocomando #milagres #pai #reflexão #felicidade #viral #divertido #escola #estudante",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:11:11.925941"
+    }
+  ],
+  "edges": []
+}

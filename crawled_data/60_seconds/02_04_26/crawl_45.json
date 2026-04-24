@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 60,
+    "seed_video_id": "g5hiczLs42U",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T10:35:12.115874",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "g5hiczLs42U",
+      "url": "https://www.youtube.com/watch?v=g5hiczLs42U",
+      "title": "GOLEIRO DE 6 DEDOS É TRAPAÇA? 😳🧤 #futebol #football #goleiro",
+      "description": null,
+      "transcript": "Pesquisar transcrição Esse goleiro está sendo acusado de trapaça por causa de uma condição raríssima. O nome dele é João e por ter seis dedos em cada mão, muitos atacantes afirmam que ele leva vantagem dentro de campo. Em uma entrevista, ele revelou que quase desistiu do futebol, já que as luvas comuns destruíam suas mãos. Mas tudo mudou quando ele criou luvas sob medida e aí simplesmente virou uma muralha impossível de passar.",
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-03T10:32:26.337584"
+    },
+    {
+      "video_id": "zr6QJDlGEjY",
+      "url": "https://www.youtube.com/watch?v=zr6QJDlGEjY",
+      "title": "Meus Melhores Animais de Estimação de 2025 (até agora)",
+      "description": "#petshop  #filme\n\nAté agora, em 2025, eu criei mais de 10 animais de estimação extremamente únicos de todos os cantos do mundo. Então transformei todos os vídeos separados em uma grande compilação de filme. Axolotes, piranhas, viúvas-negras e até cobras de duas cabeças... Então pega uma pizza e uns petiscos, porque você está prestes a embarcar numa jornada insana.\n\nPor favor, se inscreva :D",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-03T10:33:36.608750"
+    }
+  ],
+  "edges": [
+    {
+      "source": "g5hiczLs42U",
+      "target": "zr6QJDlGEjY",
+      "iteration": 1
+    }
+  ]
+}

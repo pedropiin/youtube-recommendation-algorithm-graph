@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 30,
+    "seed_video_id": "eLajXqBgOlM",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T04:52:05.066200",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "eLajXqBgOlM",
+      "url": "https://www.youtube.com/watch?v=eLajXqBgOlM",
+      "title": "Todo mundo odeia quem tem testa grande #humor",
+      "description": null,
+      "transcript": "Pesquisar transcrição Todo mundo odeia quem tem testa grande. Quando nasci, minha mãe não sabia se tinha parido bebê ou na T Square. Essa testa grande não foi de mim que puxou, não. Tadinha, vai sofrer bullying na escola. E não é que a coroa tava certa, ei menina, sua testa é tão grande, tão grande, que o não bate na sua cara, ele estaciona. [risadas] Mas quando eu cresci, eu entendi que isso podia ser algo bom. TV minha família nunca precisou comprar. Pelo menos nos encontros eu tinha alguma esperança. Ei, gatinha, você não é lírio, mas sua testa acabe a nossa história toda. [música] [canto]",
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T04:49:49.581894"
+    },
+    {
+      "video_id": "K2nTHoMLXuk",
+      "url": "https://www.youtube.com/watch?v=K2nTHoMLXuk",
+      "title": "Dudamaryah ❤️ (Com receitas🎂🍫) #receitas #dudamariahtiktok #dudamaryah",
+      "description": "uma série nova que no canal de slime que é da Dudamaryah não são de slime também de receitas, asmar,organizando e etc💜",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T04:50:29.745808"
+    }
+  ],
+  "edges": [
+    {
+      "source": "eLajXqBgOlM",
+      "target": "K2nTHoMLXuk",
+      "iteration": 1
+    }
+  ]
+}

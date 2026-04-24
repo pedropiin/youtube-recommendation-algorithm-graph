@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 5,
+    "seed_video_id": "pHlraaKeX9I",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T22:20:05.408006",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "pHlraaKeX9I",
+      "url": "https://www.youtube.com/watch?v=pHlraaKeX9I",
+      "title": "VOU FICAR SOLTEIRO😂",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:18:28.634057"
+    }
+  ],
+  "edges": []
+}

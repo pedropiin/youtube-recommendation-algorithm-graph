@@ -1,0 +1,138 @@
+{
+  "num_nodes": 1111,
+  "num_edges": 1278,
+  "density": 0.0010363198482010363,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 52,
+  "num_strongly_connected_components": 788,
+  "avg_in_degree": 1.1503150315031503,
+  "avg_out_degree": 1.1503150315031503,
+  "max_in_degree": 12,
+  "max_out_degree": 12,
+  "top_in_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "in_degree": 12,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "FelUcHdbOi4",
+      "in_degree": 7,
+      "title": "[AO VIVO] JORNAL DA BAND - 01/04/2026"
+    },
+    {
+      "video_id": "C1OP9QTB7kE",
+      "in_degree": 7,
+      "title": "Direto da Casa Branca, Trump se pronuncia oficialmente sobre guerra no Oriente Médio | WW"
+    },
+    {
+      "video_id": "DWvA72K6GYo",
+      "in_degree": 7,
+      "title": "\"Catástrofe total\": Coronel Macgregor critica duramente Trump em reação impulsiva ao discurso sob..."
+    },
+    {
+      "video_id": "MAGieHpQSQs",
+      "in_degree": 6,
+      "title": "WW - TRUMP TESTA LIMITES DA PACIÊNCIA MUNDIAL - 01/04/2026"
+    },
+    {
+      "video_id": "UWwmp5Q4DKU",
+      "in_degree": 6,
+      "title": "Análise: Trump tenta convencer população americana com discurso cheio de justificativas | WW"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "in_degree": 6,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    },
+    {
+      "video_id": "hRQyRl8wi0M",
+      "in_degree": 6,
+      "title": "Descobertas antigas que podem mudar a história| INEXPLICÁVEL COM WILLIAM SHATNER | EPISÓDIO COMPLETO"
+    },
+    {
+      "video_id": "V4JMgL46I0s",
+      "in_degree": 5,
+      "title": "FLUMINENSE 3 X 1 CORINTHIANS | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO 2026"
+    },
+    {
+      "video_id": "v14PWOI2MTc",
+      "in_degree": 4,
+      "title": "NÃO SEJA ENTERRADO PELO CHOCOLATE!"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "out_degree": 12,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "out_degree": 6,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    },
+    {
+      "video_id": "DWvA72K6GYo",
+      "out_degree": 6,
+      "title": "\"Catástrofe total\": Coronel Macgregor critica duramente Trump em reação impulsiva ao discurso sob..."
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "out_degree": 5,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "Yd7IrcAFb7s",
+      "out_degree": 5,
+      "title": "SBT Brasil: assista à edição na íntegra desta quarta-feira (01/04/2026) | #SBTBrasil"
+    },
+    {
+      "video_id": "UWwmp5Q4DKU",
+      "out_degree": 5,
+      "title": "Análise: Trump tenta convencer população americana com discurso cheio de justificativas | WW"
+    },
+    {
+      "video_id": "V4JMgL46I0s",
+      "out_degree": 4,
+      "title": "FLUMINENSE 3 X 1 CORINTHIANS | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO 2026"
+    },
+    {
+      "video_id": "MOWFvIEul2Y",
+      "out_degree": 4,
+      "title": "Moraes usa escapismos para negar uso de aviões de Vorcaro, diz Wálter Maierovitch"
+    },
+    {
+      "video_id": "DDkTqsaXby0",
+      "out_degree": 4,
+      "title": "Mônica Bergamo: Moraes e esposa viajaram oito vezes em aviões da empresa de Vorcaro"
+    },
+    {
+      "video_id": "FelUcHdbOi4",
+      "out_degree": 4,
+      "title": "[AO VIVO] JORNAL DA BAND - 01/04/2026"
+    }
+  ],
+  "scc_sizes": [
+    62,
+    18,
+    17,
+    11,
+    10,
+    9,
+    9,
+    9,
+    8,
+    8,
+    7,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    5,
+    5,
+    5
+  ]
+}

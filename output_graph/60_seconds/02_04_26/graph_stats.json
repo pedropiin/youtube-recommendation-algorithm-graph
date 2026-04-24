@@ -1,0 +1,138 @@
+{
+  "num_nodes": 707,
+  "num_edges": 793,
+  "density": 0.0015887262542522969,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 31,
+  "num_strongly_connected_components": 538,
+  "avg_in_degree": 1.1216407355021216,
+  "avg_out_degree": 1.1216407355021216,
+  "max_in_degree": 13,
+  "max_out_degree": 6,
+  "top_in_degree": [
+    {
+      "video_id": "mUVjTDCYJg4",
+      "in_degree": 13,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "in_degree": 6,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "LR1DD1UpYBQ",
+      "in_degree": 6,
+      "title": "As Mais Tocadas 2026, Hinos Evangélicos Mais Tocados, Melhores Louvores De Todos Os Tempos, Adoração"
+    },
+    {
+      "video_id": "R0ibffiNFlY",
+      "in_degree": 5,
+      "title": "Gigante BlackRock bloqueia resgates! Crise chegando?"
+    },
+    {
+      "video_id": "foYfAL9R08M",
+      "in_degree": 5,
+      "title": "LINHAS CRUZADAS | AS QUATRO FACES DE JESUS | 02/04/2026"
+    },
+    {
+      "video_id": "WeelSn2yChA",
+      "in_degree": 4,
+      "title": "BRAGANTINO 3 X 0 FLAMENGO | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "ydAnMngY08U",
+      "in_degree": 4,
+      "title": "VLOG DA MUDANÇA: ORGANIZANDO TUDO, CLOSET, QUARTO DA GIGI, COZINHA, E ESVAZIANDO AS CAIXAS - PARTE 2"
+    },
+    {
+      "video_id": "a3V_OXzQg7k",
+      "in_degree": 3,
+      "title": "CHAPECOENSE 0 X 4 ATLÉTICO-MG | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "mjBAX85L7Ws",
+      "in_degree": 3,
+      "title": "A Épica Jornada Solo Até o Bunker Mais Hardcore e Assustador Do DayZ"
+    },
+    {
+      "video_id": "DDkTqsaXby0",
+      "in_degree": 3,
+      "title": "Mônica Bergamo: Moraes e esposa viajaram oito vezes em aviões da empresa de Vorcaro"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "mUVjTDCYJg4",
+      "out_degree": 6,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "out_degree": 5,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "1uCMLaal9YQ",
+      "out_degree": 5,
+      "title": "A rotina REAL de uma MÃE DE DOIS - PÓS VENCER A UTI NEONATAL"
+    },
+    {
+      "video_id": "foYfAL9R08M",
+      "out_degree": 5,
+      "title": "LINHAS CRUZADAS | AS QUATRO FACES DE JESUS | 02/04/2026"
+    },
+    {
+      "video_id": "WeelSn2yChA",
+      "out_degree": 4,
+      "title": "BRAGANTINO 3 X 0 FLAMENGO | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "iSGcp7Se_1k",
+      "out_degree": 4,
+      "title": "O colapso da IA já começou?"
+    },
+    {
+      "video_id": "69orhfrJmhQ",
+      "out_degree": 4,
+      "title": "\"A China já engoliu os EUA?\" | Paulo Nogueira no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "sEQG0GVxTV0",
+      "out_degree": 4,
+      "title": "Irã, Hezbollah e Houthis INCENDIAM Israel em ataques consecutivos ARREPIANTES | Tel Aviv É ATINGI..."
+    },
+    {
+      "video_id": "NZACuiP20t8",
+      "out_degree": 4,
+      "title": "#aovivo Irã abate 2º caça F-35 dos EUA - Trump ameaça \"destruir o que resta\" se não houver acordo"
+    },
+    {
+      "video_id": "a3V_OXzQg7k",
+      "out_degree": 3,
+      "title": "CHAPECOENSE 0 X 4 ATLÉTICO-MG | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    }
+  ],
+  "scc_sizes": [
+    29,
+    12,
+    10,
+    10,
+    8,
+    7,
+    7,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4
+  ]
+}

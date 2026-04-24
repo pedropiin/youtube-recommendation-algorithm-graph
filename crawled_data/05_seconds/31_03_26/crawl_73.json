@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 5,
+    "seed_video_id": "q0S4ct-DL84",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T22:06:09.883932",
+    "total_videos": 20,
+    "total_edges": 19
+  },
+  "videos": [
+    {
+      "video_id": "q0S4ct-DL84",
+      "url": "https://www.youtube.com/watch?v=q0S4ct-DL84",
+      "title": "Esse Filme parecia TÃO REAL",
+      "description": null,
+      "transcript": "Caraca, esse filme é tão realista. [música] Pera aí. [risadas] Sincronizar com o momento do vídeo",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:57:58.879701"
+    },
+    {
+      "video_id": "GFLBGCzvBz8",
+      "url": "https://www.youtube.com/watch?v=GFLBGCzvBz8",
+      "title": "A luz faz isso girar? O mistério do radiômetro de Crookes",
+      "description": "Você já viu aquele pequeno objeto de vidro com hélices que começa a girar quando recebe luz?\nMuita gente acha que a explicação é simples: a luz estaria empurrando as pás.\n\nMas… essa explicação está errada.\n\nO radiômetro de Crookes, inventado em 1873, é um dos experimentos mais curiosos da história da Física.\nQuadro \"Por trás da descoberta\", episódio 01: o radiômetro de Crookes. \n\nDurante muito tempo, acreditou-se que ele funcionava por causa da pressão da luz, prevista pela teoria eletromagnética de Maxwell.\n\nO problema é que o sentido da rotação não bate com essa explicação.\n\nEntão o que realmente faz o radiômetro girar?\n\nNeste vídeo você vai descobrir:\n\n🔬 Como William Crookes criou esse experimento\n⚡ Por que a explicação da pressão da radiação não funciona\n🌡️ O papel da diferença de temperatura nas pás\n💨 Como o gás rarefeito dentro do bulbo gera o movimento\n🧠 Por que mesmo depois de 150 anos os físicos ainda discutem o fenômeno\n\nUm objeto que parece apenas um brinquedo de mesa…\nmas que envolve termodinâmica, teoria cinética dos gases e física de gases rarefeitos.\n\nE no final do vídeo eu deixo um desafio:\n\nSe o canal chegar a 10.000 inscritos em até 3 meses, eu vou tentar construir um radiômetro do zero, mostrando todo o processo:\n\n⚙️ fabricação do rotor\n🧪 criação do vácuo parcial\n🔬 testes reais para ver se ele funciona\n\nSem truques.\nSem mágica.\nSó ciência.\n\n🧠 Comente: CONSTRÓI se você quer ver esse experimento acontecer.\n\n👍 Deixe o like e inscreva-se no canal Pense ConsCiência para mais experimentos, histórias da ciência e explicações que vão além do óbvio.\n\n#Física #RadiometroDeCrookes #DivulgaçãoCientífica #ExperimentosDeFísica #Ciência",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:58:17.871165"
+    },
+    {
+      "video_id": "HeuQ1-b7Ucs",
+      "url": "https://www.youtube.com/watch?v=HeuQ1-b7Ucs",
+      "title": "Vocês Pediram, Eu Testei – Experimentos com o Radiômetro de Crookes",
+      "description": "No vídeo anterior sobre o Radiômetro de Crookes, surgiram muitos comentários com diferentes explicações para o movimento das hélices: pressão de radiação, convecção do ar, diferença de pressão e até a ideia de um “vento” dentro do bulbo.\n\nNeste vídeo, eu resolvi fazer o mais justo possível: pegar várias dessas hipóteses e testar uma por uma com experimentos reais.\n\nSerá que a luz realmente empurra as pás?\nExiste algum tipo de fluxo de ar lá dentro?\nOu a explicação é muito mais contraintuitiva do que parece?\n\nAo longo do vídeo, você vai ver testes com diferentes fontes de energia: luz intensa, luz ultravioleta, LEDs, calor direto (ferro de passar) e resfriamento com gelo.\n\nE é aí que tudo começa a ficar interessante.\n\nO que parece um simples objeto de decoração, na verdade envolve um fenômeno físico pouco intuitivo, que confundiu cientistas por décadas e que não pode ser explicado por ideias comuns como “ar quente sobe” ou “a luz empurra”.\n\nNeste vídeo, apresentamos efeitos e experimentos que raramente são mostrados por aqui -- como efeitos de rotação do radiômetro na ausência de luz e sem motivo aparente -- explorando o radiômetro de uma forma mais profunda e experimental.  \n\nAo final, o radiômetro mostra como a física pode desafiar completamente a nossa intuição.\n\n🎯 Este vídeo agora faz parte de uma série sobre o radiômetro, e a partir de agora ele vai se tornar um experimento recorrente no canal — para testar ideias, comentários e hipóteses de forma prática.\n\nSe você comentou no vídeo anterior… esse aqui é pra você.\n\n#RadiometroDeCrookes #Fisica #Ciencia #ExperimentoDeFisica #Termodinamica #TranspiracaoTermica #Vácuo #DivulgacaoCientifica #FisicaNaPratica #ExperimentosDeFisica",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:58:44.519323"
+    },
+    {
+      "video_id": "H-nHaQ0zWao",
+      "url": "https://www.youtube.com/watch?v=H-nHaQ0zWao",
+      "title": "Físicos em choque! Fóton não é o que pensamos O que há de estranho na velocidade da luz？",
+      "description": "Neste vídeo, vamos explicar de forma clara por que os fótons sempre se movem à velocidade da luz e de onde surge esse limite fundamental de velocidade no universo.\nVamos explorar como as propriedades do vácuo, o campo eletromagnético e as equações de Maxwell determinam a velocidade da luz.\nAlém disso, vamos refletir sobre o que aconteceria com os átomos, as estrelas e até com a própria vida se a velocidade da luz mudasse, mesmo que fosse um pouco.\nPrepare-se para mergulhar em um mundo fascinante da física, repleto de descobertas, onde revelamos a verdadeira natureza dos fótons e do universo.\n\nComo o vácuo determina a velocidade da luz\nComo o vácuo protege o mundo do caos\nE se o espaço não for o nível mais fundamental?\nO que tudo isso realmente significa?",
+      "transcript": null,
+      "iteration": 4,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:59:08.329813"
+    },
+    {
+      "video_id": "mSXc24nT-qY",
+      "url": "https://www.youtube.com/watch?v=mSXc24nT-qY",
+      "title": "Descoberta Assustadora No CERN Pode Mudar Tudo Que Sabemos Sobre O Universo!",
+      "description": "No comecinho de 2025, nos túneis subterrâneos do CERN, aquele colossal equipamento conhecido como o Grande Colisor de Hádrons voltou a ser ativado.\nO túnel circular de 27 quilômetros começou a rugir com energia, acelerando prótons até velocidades próximas à da luz.\nEste é um lugar que se encontra entre a física e a filosofia, onde a humanidade ainda desafia, todos os dias, a verdadeira natureza daquilo que chamamos de realidade.\nHoje, vamos apresentar uma série de fenômenos anômalos que deixaram os cientistas completamente intrigados. Então, se você curte esse tipo de tema, aproveita e se inscreve no canal!\n\nDentro do CERN\nPartículas Gêmeas: Trajetórias Refletidas\nEcos do Futuro\nO colapso da nossa visão dos quarks\nEnergia sem origem\nO laço do tempo\nInterferência externa?\nQuando a física se torna filosofia",
+      "transcript": null,
+      "iteration": 5,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:59:32.065253"
+    },
+    {
+      "video_id": "WYISLhJYdjI",
+      "url": "https://www.youtube.com/watch?v=WYISLhJYdjI",
+      "title": "O fim do universo： quando o tempo deixa de existir",
+      "description": "Estamos acostumados a viver seguindo o ritmo do tempo na menor unidade que conseguimos perceber: o “um segundo”.\nUm segundo é o tempo de uma batida do coração, o intervalo de uma respiração tranquila, o piscar de olhos, um passo em ritmo normal, o “um, dois” que ecoa nos alinhamentos escolares, o som breve de um sino ou o clique de um interruptor ao acender a luz de um cômodo.\nMas imagine só: e se pudéssemos encolher essa noção de “um segundo” para um centésimo, depois mais um centésimo disso, e continuar diminuindo cada vez mais... o que será que a gente veria nesse mundo em escala tão reduzida?\nHoje vamos fazer um pequeno experimento mental.\nVamos desacelerar o mundo pouco a pouco, em câmera lenta, e observar como a realidade vai se transformando completamente diante dos nossos olhos.\nComeçamos com o já conhecido 1 segundo, depois passamos para 0,01 segundo, depois para 0,0001 segundo... e assim por diante, reduzindo cada vez mais.\nE a cada etapa, surgem diante de nós paisagens impressionantes que jamais poderiam ser vistas a olho nu.\nE lá no limite, no “nível mais profundo” possível... o que será que nos espera?\nSerá que, afinal, o tempo também tem um “mínimo absoluto”?\nAssim como a matéria tem um limite, será que o tempo também tem?\nNa antiguidade, pensadores como Demócrito e Leucipo acreditavam que a menor unidade da matéria era o “átomo”.\nMilhares de anos depois, hoje falamos de partículas fundamentais como elétrons, neutrinos, fótons e glúons.\nE a física moderna define o menor comprimento possível como o “comprimento de Planck”, que mede 10 elevado a menos 35 metros.\nAbaixo disso, o próprio conceito de “tamanho” deixa de fazer sentido — é um limite absoluto.\nEntão será que existe um limite assim também para o tempo?\nUma unidade tão pequena que, abaixo dela, o próprio conceito de “tempo” desapareceria?\nE o que exatamente significa dizer que “o tempo perde o sentido”?\n\n1 segundo — Um mundo familiar e compreensível\n0,01 segundo — Um mundo em pausa\n0,0001 segundo — O mundo do clarão elétrico\n1 microssegundo — Um mundo onde o som ficou para trás\n1 nanossegundo — O mundo da luz e dos microchips\n1 picosegundo — O mundo ondulante dos átomos\n1 femtossegundo — O mundo onde a química dança\n1 attossegundo — O mundo dos elétrons\n1 zeptossegundo — O mundo dos fótons\nTempo de Planck — O limite do universo",
+      "transcript": null,
+      "iteration": 6,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:59:52.958351"
+    },
+    {
+      "video_id": "F2naVnn4N2g",
+      "url": "https://www.youtube.com/watch?v=F2naVnn4N2g",
+      "title": "Por Que 1/137 é o Número Mais IMPORTANTE do Universo?",
+      "description": "Ele pode parecer apenas uma fração qualquer, mas esconde um dos maiores mistérios da física moderna. \n\n✨ Apoie a Exploração Espacial: Seja um Membro do Canal -    / @desvendedescubra  \nSe você ama desvendar os mistérios do cosmos, considere se tornar um membro do nosso canal para apoiar a pesquisa e garantir mais conteúdo incrível. \n\n🔴 Baixe nossos eBooks e explore ainda mais o cosmos!\n📌 O Guia Definitivo do Sistema Solar → https://pay.kiwify.com.br/uPYblTq\n📌 Explorando o Cosmos: Um Guia para Iniciantes em Astronomia → https://pay.kiwify.com.br/iJdVSM8\n\n🌌 🔔 Se inscreva no canal e ative o sininho para não perder nossos próximos lançamentos, deixe seus comentários, compartilhe e curta o vídeo.",
+      "transcript": null,
+      "iteration": 7,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:00:13.993959"
+    },
+    {
+      "video_id": "Z92-s4brKyM",
+      "url": "https://www.youtube.com/watch?v=Z92-s4brKyM",
+      "title": "Se o Universo Nasceu do Nada, Quem Criou o Nada?",
+      "description": "O universo surgiu do nada… mas e se esse “nada” nunca existiu?\n\n✨ Apoie a Exploração Espacial: Seja um Membro do Canal -    / @desvendedescubra  \nSe você ama desvendar os mistérios do cosmos, considere se tornar um membro do nosso canal para apoiar a pesquisa e garantir mais conteúdo incrível. \n\n🔴 Baixe nossos eBooks e explore ainda mais o cosmos!\n📌 O Guia Definitivo do Sistema Solar → https://pay.kiwify.com.br/uPYblTq\n📌 Explorando o Cosmos: Um Guia para Iniciantes em Astronomia → https://pay.kiwify.com.br/iJdVSM8\n\n🌌 🔔 Se inscreva no canal e ative o sininho para não perder nossos próximos lançamentos, deixe seus comentários, compartilhe e curta o vídeo.",
+      "transcript": null,
+      "iteration": 8,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:00:39.526468"
+    },
+    {
+      "video_id": "T9VXppIpp0E",
+      "url": "https://www.youtube.com/watch?v=T9VXppIpp0E",
+      "title": "Qual é a Distância Até a Borda do Universo?",
+      "description": "O universo é imenso… mas o que isso realmente significa? Neste vídeo, vamos além da imaginação para descobrir qual é a verdadeira distância até a borda do universo — e o que a ciência mais avançada tem a dizer sobre isso.\n\n✨ Apoie a Exploração Espacial: Seja um Membro do Canal -    / @desvendedescubra  \nSe você ama desvendar os mistérios do cosmos, considere se tornar um membro do nosso canal para apoiar a pesquisa e garantir mais conteúdo incrível. \n\n🔴 Baixe nossos eBooks e explore ainda mais o cosmos!\n📌 O Guia Definitivo do Sistema Solar → https://pay.kiwify.com.br/uPYblTq\n📌 Explorando o Cosmos: Um Guia para Iniciantes em Astronomia → https://pay.kiwify.com.br/iJdVSM8\n\n🌌 🔔 Se inscreva no canal e ative o sininho para não perder nossos próximos lançamentos, deixe seus comentários, compartilhe e curta o vídeo.",
+      "transcript": null,
+      "iteration": 9,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:01:00.132888"
+    },
+    {
+      "video_id": "kb8W5otxP8M",
+      "url": "https://www.youtube.com/watch?v=kb8W5otxP8M",
+      "title": "Qual é o Tamanho do Sistema Solar e do Universo?",
+      "description": "Já parou pra pensar no quão pequeno você realmente é? Neste vídeo, embarque em uma viagem épica pelas incríveis escalas do Universo: da distância entre a Terra e a Lua até os limites do cosmos conhecido.\n\n✨ Apoie a Exploração Espacial: Seja um Membro do Canal -    / @desvendedescubra  \nSe você ama desvendar os mistérios do cosmos, considere se tornar um membro do nosso canal para apoiar a pesquisa e garantir mais conteúdo incrível. \n\n🔴 Baixe nossos eBooks e explore ainda mais o cosmos!\n📌 O Guia Definitivo do Sistema Solar → https://pay.kiwify.com.br/uPYblTq\n📌 Explorando o Cosmos: Um Guia para Iniciantes em Astronomia → https://pay.kiwify.com.br/iJdVSM8\n\n🌌 🔔 Se inscreva no canal e ative o sininho para não perder nossos próximos lançamentos, deixe seus comentários, compartilhe e curta o vídeo.",
+      "transcript": null,
+      "iteration": 10,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:01:25.371682"
+    },
+    {
+      "video_id": "T-DwDUW4fh0",
+      "url": "https://www.youtube.com/watch?v=T-DwDUW4fh0",
+      "title": "A VERDADEIRA Trajetória da Terra Pela Galáxia",
+      "description": "Você sabia que neste exato momento estamos viajando pelo universo a uma velocidade absurda, sem nem perceber? Neste vídeo, descubra como nosso planeta e o Sol realizam uma jornada incrível pela Via Láctea, enfrentando radiações, influenciando nosso clima e muito mais.\n\n✨ Apoie a Exploração Espacial: Seja um Membro do Canal -    / @desvendedescubra  \nSe você ama desvendar os mistérios do cosmos, considere se tornar um membro do nosso canal para apoiar a pesquisa e garantir mais conteúdo incrível. \n\n🔴 Baixe nossos eBooks e explore ainda mais o cosmos!\n📌 O Guia Definitivo do Sistema Solar → https://pay.kiwify.com.br/uPYblTq\n📌 Explorando o Cosmos: Um Guia para Iniciantes em Astronomia → https://pay.kiwify.com.br/iJdVSM8\n\n🌌 🔔 Se inscreva no canal e ative o sininho para não perder nossos próximos lançamentos, deixe seus comentários, compartilhe e curta o vídeo.",
+      "transcript": null,
+      "iteration": 11,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:01:45.726123"
+    },
+    {
+      "video_id": "L_4RBk9HBOw",
+      "url": "https://www.youtube.com/watch?v=L_4RBk9HBOw",
+      "title": "NUNCA sairemos do SISTEMA SOLAR, e esses são os 4 MOTIVOS!",
+      "description": "🌌 Por que ainda não conseguimos viajar para outras estrelas?\n Neste vídeo, revelamos a verdade por trás das viagens interestelares — e por que a humanidade ainda está presa ao Sistema Solar. Você vai descobrir os maiores desafios científicos que nos impedem de alcançar Próxima Centauri, mesmo com nossas tecnologias mais avançadas.\nExploramos os quatro obstáculos implacáveis que tornam a viagem interestelar quase impossível: as distâncias cósmicas absurdas, os limites da física e da energia, os riscos biológicos no espaço profundo e o impacto devastador da relatividade do tempo.\nSe você gosta de ciência, física, astronomia e grandes mistérios do universo, este vídeo foi feito para você. Prepare-se para encarar a realidade nua e crua sobre o futuro da exploração humana.\n\n⏱️ CAPÍTULOS:\n00:00 - Introdução\n01:03 - Distância\n02:42 - Velocidade/Energia\n05:30 - O corpo humano\n07:52 - O tempo\n09:24 - Conclusão\n\n\n🔬 NESTE VÍDEO VOCÊ VAI DESCOBRIR:\n→ Porque as distâncias interestelares tornam quase impossível alcançar outras estrelas com a tecnologia atual.\n→ Como os limites da física — energia, velocidade e a equação de Tsiolkovsky — impedem viagens rápidas.\n→ Quais perigos biológicos e psicológicos ameaçam qualquer missão humana de longa duração.\n→ O que acontecerá no fim da vida do Sol\n→ Como o tempo e a relatividade transformam viagens interestelares em jornadas sem retorno.\n\n\n📊 DADOS CIENTÍFICOS:\n• Um ano-luz: 9,46 trilhões de quilômetros.\n• Distância até Próxima Centauri: 4,2 anos-luz\n• Velocidade da Voyager 1: ~70.000 km/h\n• Distância atual da Voyager 1 da Terra: ~24 bilhões de km\n• Risco anual de câncer por radiação cósmica em viagens longas: até 5% ao ano\n\n\n🔗 FONTES OFICIAIS:\nNASA: https://www.nasa.gov/\n\nhttps://science.nasa.gov/solar-system...\n\nhttps://www.nasa.gov/hrp/hazards/\n\n-https://www.nasa.gov/wp-content/uploa...\n-https://www.nasa.gov/general/a-breakt...\nArtigo Científico (Journal of Physics)\n\nhttps://ej-physics.org/index.php/ejph...\n\n\n\n📚 QUER SE APROFUNDAR E COMEÇAR A EXPLORAR O COSMOS EM CASA?\n\nExplorar o cosmos é mais barato do que você imagina! (Telescópio):\n\nhttps://amzn.to/4hKBiA7\n\n\nGuia Prático Para Astronomia Observacional (Livro):\n\nhttps://amzn.to/4qJ8IDn\n\n\nAstrofísica para apressados (Livro):\n\nhttps://amzn.to/48Ypxnv\n\n\nA História do Sistema Solar para quem tem pressa (Livro):\n\nhttps://amzn.to/47DScf1\n\n\nCosmos Carl Sagan (Livro):\n\nhttps://amzn.to/47Gg162\n\n\n🌠 INSCREVA-SE para mais mistérios do Universo revelados de forma simples e imersiva!\n\n\n#Sistema solar #Viagem Interestelar #Próxima centauri #NASA #Astronomia #Astrofísica #CuriosoUniverso",
+      "transcript": null,
+      "iteration": 12,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:02:11.885975"
+    },
+    {
+      "video_id": "8mPHl1WqvWg",
+      "url": "https://www.youtube.com/watch?v=8mPHl1WqvWg",
+      "title": "Voyager 1 Está Prestes a Fazer História — De Novo",
+      "description": "🚀 Em novembro de 2026, a Voyager 1 vai cruzar uma marca histórica: 1 DIA-LUZ de distância da Terra. Lançada em 1977, essa pequena sonda ainda está funcionando — e carrega consigo a última mensagem da humanidade para o cosmos.\n\n ═══════════════════════════════════════ \n\n📚 CAPÍTULOS: \n00:00 - Já deixou o like?\n01:00 - O que significa a velocidade da luz \n02:39 - A viagem impossível da Voyager \n04:34 - A conversa mais longa da história \n06:27 - O Golden Record: nossa mensagem ao cosmos \n07:55 - O Pálido Ponto Azul \n08:56 - O que 1 dia-luz significa para a humanidade \n\n═══════════════════════════════════════ \n\n🔗 FONTES: \n\nNASA Voyager Mission: https://science.nasa.gov/mission/voya...\n\nCNN: https://www.cnn.com/2025/12/09/scienc... \n\n\n═══════════════════════════════════════ \n\n📚 QUER SE APROFUNDAR E COMEÇAR A EXPLORAR O COSMOS EM CASA?\n\nExplorar o cosmos é mais barato do que você imagina! (Telescópio):\n\nhttps://amzn.to/4hKBiA7\n\n\nGuia Prático Para Astronomia Observacional (Livro):\n\nhttps://amzn.to/4qJ8IDn\n\n\nAstrofísica para apressados (Livro):\n\nhttps://amzn.to/48Ypxnv\n\n\nA História do Sistema Solar para quem tem pressa (Livro):\n\nhttps://amzn.to/47DScf1\n\n\nCosmos Carl Sagan (Livro):\n\nhttps://amzn.to/47Gg162\n\n\n\n\nSe você ama astronomia e quer entender o futuro da nossa espécie, deixe seu LIKE e se INSCREVA para mais jornadas pelo cosmos! 🌌\n\nMantenha-se curioso! 🌌\n\n\n#voyager1 #NASA #espaço #astronomia #universo #exploraçãoespacial #goldenrecord #carlsagan",
+      "transcript": null,
+      "iteration": 13,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:02:36.957408"
+    },
+    {
+      "video_id": "kJlCRZEwmEY",
+      "url": "https://www.youtube.com/watch?v=kJlCRZEwmEY",
+      "title": "Estamos Prestes a Perder a Sonda Voyager",
+      "description": "A Voyager 1 está a bilhões de quilômetros da Terra, atravessando o espaço interestelar… mas o tempo pode estar se esgotando.\n\nDepois de quase 50 anos viajando além dos planetas, a sonda da NASA continua enviando sinais fracos através da escuridão cósmica. Mas até quando? Estamos realmente prestes a perder o último contato com o objeto mais distante já construído pela humanidade?\n\nNeste vídeo, você vai entender o que está acontecendo com a Voyager, como funciona o envio de sinais a essa distância absurda e por que o “último sinal” pode estar mais próximo do que imaginamos.\n\n🛰️ O silêncio pode estar chegando.\n\nSe inscreva no canal para acompanhar os próximos capítulos dessa jornada histórica.",
+      "transcript": null,
+      "iteration": 14,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:02:57.037204"
+    },
+    {
+      "video_id": "o13PCsgkpOs",
+      "url": "https://www.youtube.com/watch?v=o13PCsgkpOs",
+      "title": "O Último Olhar: As FOTOS FINAIS da Voyager antes da escuridão eterna",
+      "description": "Descubra as fotos finais registradas pela Voyager 1 antes de suas câmeras serem desligadas para sempre pela NASA. Entenda a história por trás do \"Retrato de Família\" e do icônico \"Pálido Ponto Azul\", revelando como essas últimas imagens mudaram nossa percepção sobre o sistema solar e o espaço interestelar.\n\nUltimo video: O que a NASA descobriu em Io:    • O que a NASA descobriu em Io  \n\n#Voyager #NASA #Astronomia #Universo #EspaçoInterestelar\n\n🚀Quer mais viagens pelo espaço? Confira outros vídeos incríveis do nosso canal:\n\n🚀 *VEJA TAMBÉM:*\n\n** Por que Saturno é o Planeta Mais ASSUSTADOR (Ele não é nada pacífico):   • Por que Saturno é o Planeta Mais ASSUSTADO...  \n\n**Esse objeto mudará sua visão do espaço para sempre:    • Esse objeto mudará sua visão do espaço par...  \n\n**A Borda do Universo é Insana:    • A Borda do Universo é Insana  \n\n**Como a NASA construirá uma cidade na Lua:    • A NASA Vai Morar na Lua (O Plano Revelado)  \n\n**A China Já Começou a Construir na Lua (E Ninguém Viu):   • A China Já Começou a Construir na Lua (E N...  \n\n** Algo estranho está acontecendo em Júpiter:    • Algo estranho está acontecendo em Júpiter  \n\n**Como está hoje o local de pouso da Apollo 11 na Lua - 56 anos depois:    • Como está hoje o local de pouso da Apollo ...  \n\n**O que os Soviéticos Encontraram em Vênus:    • O que os Soviéticos Encontraram em Vênus  \n\nMusic from #InAudio: https://inaudio.org/\nTrack Name: Ouija\nArtist: Cold Cinema",
+      "transcript": null,
+      "iteration": 15,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:03:25.288310"
+    },
+    {
+      "video_id": "ztFSfmQDwhY",
+      "url": "https://www.youtube.com/watch?v=ztFSfmQDwhY",
+      "title": "O mapa do sistema solar que você conhece está totalmente ERRADO",
+      "description": "Explore os mistérios da Nuvem de Oort, a colossal fronteira de gelo que define o limite real do Sistema Solar. Descubra por que a ciência considera este lugar uma \"prisão espacial\" e o que a jornada épica da Voyager 1 revela sobre o nosso verdadeiro isolamento no universo. Uma imersão profunda na astronomia que desafia tudo o que você aprendeu na escola.\n\nUltimo video: O Dia em que uma Bomba Nuclear no Espaço Quase Acabou com a Civilização:    • O Dia em que uma Bomba Nuclear no Espaço Q...  \n\n🚀Quer mais viagens pelo espaço? Confira outros vídeos incríveis do nosso canal:\n\n🚀 *VEJA TAMBÉM:*\n\n** Por que Saturno é o Planeta Mais ASSUSTADOR (Ele não é nada pacífico):   • Por que Saturno é o Planeta Mais ASSUSTADO...  \n\n**Esse objeto mudará sua visão do espaço para sempre:    • Esse objeto mudará sua visão do espaço par...  \n\n**A Borda do Universo é Insana:    • A Borda do Universo é Insana  \n\n**Como a NASA construirá uma cidade na Lua:    • A NASA Vai Morar na Lua (O Plano Revelado)  \n\n**A China Já Começou a Construir na Lua (E Ninguém Viu):   • A China Já Começou a Construir na Lua (E N...  \n\n** Algo estranho está acontecendo em Júpiter:    • Algo estranho está acontecendo em Júpiter  \n\n**Como está hoje o local de pouso da Apollo 11 na Lua - 56 anos depois:    • Como está hoje o local de pouso da Apollo ...  \n\n**O que os Soviéticos Encontraram em Vênus:    • O que os Soviéticos Encontraram em Vênus  \n\nMusic from #InAudio: https://inaudio.org/\nTrack Name: Ouija\nArtist: Cold Cinema\n\nMúsica de #InAudio: https://inaudio.org/\nTrack Name: Ashes\nMusic by Cold Cinema\n\nhttps://inaudio.org/track/ashes-trailer/",
+      "transcript": null,
+      "iteration": 16,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:04:14.398616"
+    },
+    {
+      "video_id": "RKsCr-9J_r8",
+      "url": "https://www.youtube.com/watch?v=RKsCr-9J_r8",
+      "title": "O que a China encontrou na Lua",
+      "description": "Por décadas, achamos que conhecíamos a Lua. Mas as recentes missões da China estão provando que estávamos terrivelmente errados. O que a China realmente encontrou no lado oculto da Lua? As amostras trazidas pelas missões Chang'e revelaram um novo mineral com o potencial de gerar energia ilimitada, água em lugares inesperados e segredos que desafiam a própria teoria da formação lunar. Neste documentário, mergulhamos fundo nas descobertas do rover Yutu-2 e das missões Chang'e 4, 5 e 6, que estão reescrevendo a história do nosso vizinho celestial e planejando o futuro da humanidade no espaço. Prepare-se para ver a Lua como nunca antes.\n\n\n🔭 Gostou do vídeo? Então você vai PIRAR com esses aqui:\n\n👉 O que está acima e abaixo do Sistema Solar vai te deixar de queixo caído:    • O que está acima e abaixo do Sistema Solar...  \n\n🚫 É por isso que nunca sairemos do Sistema Solar:    • É por isso que NUNCA deixaremos o Sistema ...  \n\n🧠 O vídeo que vai explodir sua mente está aqui: Quão Grande é o universo?:    • Qual é o tamanho do universo?  \n\n\n📚 Leitura recomendada para quem ama o universo:\n\n🌌 Cosmos – Carl Sagan\nUm dos maiores clássicos da divulgação científica de todos os tempos. Neste livro, Carl Sagan conduz uma jornada por 14 bilhões de anos de evolução cósmica, passando por temas como a origem da vida, o cérebro humano, arte, história, filosofia e ciência. Uma obra atemporal que combina conhecimento profundo com uma narrativa envolvente.\n\n🔗 Compre o livro aqui: https://amzn.to/3ZTnyeE\n\n🚀 Cosmos – Edição Especial da Série da FOX\nCom nova introdução de Ann Druyan e prefácio de Neil deGrasse Tyson, essa edição revisita o universo com ilustrações incríveis e linguagem acessível. Ideal para quem quer começar a explorar os mistérios do cosmos ou se apaixonar novamente pela ciência.\n\n🔗 Garanta seu exemplar aqui: https://amzn.to/4dTGOi1\n\n** Quer ajudar o UNIVERSE a continuar? **\nChave Pix: universeofc24@gmail.com\nContato profissional: universeofc24@gmail.com\n\n\nCRÉDITOS:\nMúsica:Correr\nArtista:Kai Engel \nFonte (Free Music Archive)\nLicença (CC BY)",
+      "transcript": null,
+      "iteration": 17,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:04:40.015915"
+    },
+    {
+      "video_id": "5Pj-_856SH8",
+      "url": "https://www.youtube.com/watch?v=5Pj-_856SH8",
+      "title": "O Que REALMENTE Aconteceu com as Missões Apollo?",
+      "description": "🌕 O que realmente aconteceu na Lua? Neste documentário exclusivo, você vai descobrir detalhes chocantes e pouco conhecidos das seis missões tripuladas da NASA que pousaram no solo lunar entre 1969 e 1972. Desde o momento épico em que Neil Armstrong deu o primeiro passo, até os mistérios da Apollo 17 e sua surpreendente descoberta de solo laranja, cada capítulo desta história revela um novo nível de complexidade, risco e genialidade. Não se trata apenas de astronautas caminhando na superfície da Lua... mas de falhas técnicas, decisões heroicas, colisões planejadas, experimentos científicos incríveis e até momentos de leveza como o primeiro jogo de golfe fora da Terra.\n\n🚀 Por que a NASA pousou tantas vezes na Lua em apenas três anos? Por que nunca mais voltamos? E será que descobrimos algo por lá... que nunca foi revelado ao público? Aperte o play e prepare-se para uma viagem imersiva, que vai mudar tudo que você achava que sabia sobre a corrida espacial.\n\n🔔 Inscreva-se no canal e ative as notificações para não perder nossas futuras investigações sobre o espaço, o universo e os enigmas que ainda desafiam a humanidade.\n\n✍️ Deixe seu comentário abaixo: Qual missão Apollo mais te impressionou? E por que você acha que nunca mais voltamos à Lua?\n\n👍 Curta o vídeo se você também acredita que a exploração espacial é uma das maiores conquistas da humanidade.\n\n📲 Compartilhe com amigos que adoram ciência, história e grandes mistérios do universo.\n#ExploraçãoLunar #NASA #Apollo11 #MistériosDaLua #CiênciaEspacial #ViagemÀLua #HistóriaDoEspaço #Astronomia #Universo #Apollo13 #FatosIncríveis #SaturnoV #DocumentárioEspacial\n\n✅ APOIE O CANAL:\n👕 Vista o universo! Camisetas exclusivas aqui: \n\n👕Camiseta Nave Voyager: https://amzn.to/45r3Sm6\n👕Camiseta Astronauta: https://amzn.to/45s3DXX\n👕Camiseta Astronauta Com Balões: https://amzn.to/3SZUyhG\n👕Camiseta Preta Saturno: https://amzn.to/3TDCtpH\n👕Camiseta Gato Astronauta: https://amzn.to/44lmR0l\n👕Camiseta Premium Astronalta: https://amzn.to/45wYmON\n\n📚 Leitura recomendada para quem ama o universo:\n\n🌌 Cosmos – Carl Sagan\nUm dos maiores clássicos da divulgação científica de todos os tempos.\n🔗 Compre o livro aqui: https://amzn.to/3ZTnyeE\n\n🚀 Cosmos – Edição Especial da Série da FOX\nCom nova introdução de Ann Druyan e prefácio de Neil deGrasse Tyson, essa edição revisita o universo com ilustrações incríveis e linguagem acessível. Ideal para quem quer começar a explorar os mistérios do cosmos ou se apaixonar novamente pela ciência.\n\n🔗 Garanta seu exemplar aqui: https://amzn.to/4dTGOi1\n\n\n🔭 Gostou do vídeo? Então você vai PIRAR com esses aqui:\n\n👉 O que está acima e abaixo do Sistema Solar vai te deixar de queixo caído:    • O que está acima e abaixo do Sistema Solar...  \n\n🚫 É por isso que nunca sairemos do Sistema Solar:    • É por isso que NUNCA deixaremos o Sistema ...  \n\n🧠 O vídeo que vai explodir sua mente está aqui: Quão Grande é o universo?:    • Qual é o tamanho do universo?  \n\n🚀 Você sabe por que custa tanto colocar algo no espaço? Descubra os segredos por trás dos bilhões gastos SPACEX:    • Por que ir ao espaço custa tanto   \n\n** Quer ajudar o UNIVERSE a continuar? **\nChave Pix: universeofc24@gmail.com\nContato profissional: universeofc24@gmail.com",
+      "transcript": "In July 1969, the world stopped to witness a moment that would define history. A human being descended a ladder and stepped onto another world. This is the image that was etched into the planet's collective memory. The story we all know. But what many don't know is that that giant leap for mankind was just the beginning. Behind that iconic moment, there is a far more complex, dangerous, and fascinating saga. NASA conducted not just one, but six manned landings on the Moon in a period of just 3 years. Think about that for a moment. Six complete lunar expeditions in 36 months. A feat of engineering and courage that, by today's standards, would be almost inconceivable. So, the big question remains: What were all those men doing up there for so long? Apollo 12, the second manned mission to the Moon, lifted off just months after Neil Armstrong's historic feat. It was November 1969. Charles \"Pete\" Conrad, Richard Gordon, and Alan Bean were strapped into their gigantic Saturn V rocket, ready for humanity's triumphant return to the Moon. But the journey would be anything but smooth. The plans for Apollo 12 were ambitious. The crew carried with them a state-of-the-art color television camera to broadcast live from the moon, a monumental improvement over the grainy black-and-white images of Apollo 11. More than that, this mission was a crucial technical demonstration. The first lunar landing, while successful, was by a very narrow margin. What most people didn't know is that Neil Armstrong and Buzz Aldrin were off course during the entire descent. They missed their target by several kilometers, landing in an essentially random location. With Apollo 12, NASA needed to prove it could land a spacecraft with surgical precision. A familiar target was chosen: the robotic Surveyor 3 probe, which had landed on the lunar surface 3 years earlier. The mission was simple and audacious: to pay a visit to the old probe. Unfortunately, the problems started immediately. The Saturn V took off in the middle of a violent storm. President Nixon and his wife were present to watch, and the pressure to launch was immense. The rocket disappeared into the clouds, and just 36 seconds after liftoff, at an altitude of almost 2,000 meters, a lightning bolt struck the rocket. The strike threw the spacecraft's electrical systems into absolute chaos. Warning lights flashed all over the panel. Mission control in Houston lost contact, and then, 16 seconds later, a second lightning bolt hit the craft. At 4,000 meters altitude, the rocket was without its main power source, with no navigation system, flying blind towards disaster. It was the quick thinking of a flight controller on the ground that saved the day. He remembered a similar failure in a simulation and shouted over the radio a phrase that would become legendary among space enthusiasts: \"Try SCE to Aux.\" The command restored power and allowed the mission to continue. This was the last time NASA launched a rocket during a thunderstorm. With imminent disaster averted, Apollo 12 executed a near-perfect landing, just 180 meters from the crater where Surveyor 3 awaited. On Earth, millions were tuned in for the first color broadcast from the Moon. The sight must have been inspiring, but the joy was short-lived. Just a few minutes into the moonwalk, astronaut Alan Bean accidentally pointed the TV camera directly at the sun. Sunlight, without the protection of the atmosphere, is incredibly intense. It instantly destroyed the camera's fragile tubes. End of transmission. But it was far from the end of the mission. The astronauts recovered components from Surveyor 3, the first man-made objects to return from space after a long stay. And they installed a seismic experiment package. To test it, NASA decided to cause its own moonquake. After the astronauts returned to orbit, the lunar module was intentionally crashed into the Moon. The seismometer recorded the vibrations, and scientists were shocked. The reverberations from the impact lasted for nearly an hour. The moon, it was said, rang like a bell. It was the first major clue that our satellite was much stranger than anyone could have imagined. Apollo 13, an unlucky number for an unlucky crew. On the first failed mission to the moon, halfway there, an electrical problem caused an oxygen tank to explode. The famous phrase, \"Houston, we've had a problem,\" echoed through space, putting the crew in a life-or-death situation. The world watched with bated breath. Every lunar mission was dangerous, but Apollo 13 made that danger terrifyingly real. The mission of exploration turned into a desperate fight for survival. The crew survived thanks to an unprecedented display of ingenuity, but the public's perception of the space program had changed forever. This saga of danger, ingenuity, and overcoming the odds is just one part of the incredible story we are telling. If you, like us, are fascinated by these chapters of human exploration and want to ensure you don't miss the next journeys we'll take together, consider subscribing to the channel and turning on notifications. Every subscription helps us continue to bring these complex and inspiring stories to life. Now, let's go back to the moon. This didn't stop Apollo 14 from moving forward. Almost a year later, this would be America's triumphant return mission. And to lead it, NASA called upon a hero of the space age, Alan Shepard. The first American to go to space was now ready to walk on the Moon. At 47, he was the oldest astronaut in the program, and his experience would be vital. As was tradition by now, a crisis appeared during the maneuver to dock the command module with the lunar module: the docking mechanism failed. They tried six times without success. The mission was about to be aborted, but Commander Shepard remained calm. He instructed his pilot to turn off the electronic assistance and perform the docking manually, relying only on his eyes and instincts. And it worked. The landing of Apollo 14 was the most precise to date. And although Shepard wasn't the first to walk on the moon, he would be the first to play golf. He had adapted the head of a six-iron to the tip of a tool. In front of the live TV camera, he pulled out two golf balls. The bulky spacesuit prevented him from using both arms. The first swing was a miss. But on the second, he hit it square, sending the ball flying across the lunar landscape. Shepard joked that the ball traveled for miles and miles. In reality, it was about 40 meters. That moment of levity was exactly what America needed. Apollo 14 restored confidence in NASA and set the stage for the next phase of lunar exploration. Apollo 15 was a transformative mission. NASA took everything it had learned and enhanced the technology for longer stays and advanced geological investigations. The astronauts could now spend three full days on the surface. And to make the most of this time, they had a new toy: the Lunar Roving Vehicle or LRV, a battery-powered electric jeep capable of exploring vast areas of the moon. With the LRV, the Apollo 15 astronauts explored mountains and ancient lava rivers, collecting an item that would become famous: the Genesis Rock, a 4.1-billion-year-old stone, a fragment from the beginning of our solar system. The crew also took the opportunity to beautifully and simply demonstrate Galileo's theory of gravity. In a perfect vacuum, without air resistance, a feather and a hammer were dropped at the same time. They fell at the same speed, touching the lunar ground at the exact same instant. Ten months later, in April 1972, Apollo 16 arrived, also equipped with the LRV. The mission was to explore the lunar highlands, which were believed to be of volcanic origin. One of the crew members was Charles Duke, who had been on Apollo 11 but remained in orbit while Armstrong and Aldrin descended. Now it was his turn to leave his own footprints. Ironically, the crew discovered that the area was not formed by volcanoes. The investigation revealed a much more dramatic origin. The landscape had been carved and uplifted by colossal asteroid impacts. Another fascinating discovery came from the astronauts' account of the lunar dust. They reported an oily feeling on their skin and a smell that for both of them resembled spent gunpowder. A sensory detail that connects us directly to their experience. In December 1972, the time came for the definitive mission, the pinnacle of the program: Apollo 17. Unfortunately, by this time, both the public and politicians had lost interest, but this didn't stop NASA from assembling the most scientifically and technologically advanced human spaceflight ever conducted. And that statement remains true to this day. Apollo 17 marked the first and only time a professional scientist would set foot on the moon. All previous astronauts were test pilots trained to do science. Harrison \"Jack\" Schmitt was a professional geologist trained to be a pilot. They landed in the Taurus-Littrow Valley, a geological paradise. The mission lasted longer than any other. Schmitt and his commander spent 75 hours on the surface, exploring more than 36 km with the Lunar Rover. One of their most interesting discoveries was that the moon is not entirely gray. Schmitt discovered what appeared to be orange soil hidden beneath the dust. Analyzed on Earth, it was revealed to be composed of tiny spheres of volcanic glass formed 3.6 billion years ago. In total, Apollo 17 brought back 110 kg of lunar rocks and soil, the largest haul of all the missions. These samples form the backbone of our current understanding of the Moon's history. NASA knew this was the end. There was optimism that humans would return to the moon in the not-too-distant future, but everyone understood that Apollo 17 was the end of an era. The mission commander, Eugene Cernan, was the last person to stand on the surface of the Moon. And in his final words, before returning to the spacecraft, he left a message for the future. He said: \"We leave as we came and, God willing, as we shall return, with peace and hope for all mankind.\" He climbed the ladder, the hatch closed, and since then, no one has returned. The golden age of lunar exploration had come to its silent and poetic end. The Apollo era left us a legacy and many questions. Which of these six missions impressed you the most? And the biggest question of all: why do you think, after all that, we never went back? Leave your opinion in the comments. We really want to read what you think. Sincronizar com o momento do vídeo",
+      "iteration": 18,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:05:08.060492"
+    },
+    {
+      "video_id": "p-xO9FXvXDs",
+      "url": "https://www.youtube.com/watch?v=p-xO9FXvXDs",
+      "title": "O que a China Trouxe do Lado Oculto da Lua",
+      "description": "🌙 Robôs chineses dominaram a Lua. Nos últimos 5 anos, a China pousou no lado oculto, trouxe amostras nunca vistas, e descobriu um mineral que pode mudar o futuro da energia na Terra.\n\nNeste vídeo, exploramos todas as descobertas das missões Chang'e — do hélio-3 à água lunar, das rochas de 4 bilhões de anos aos segredos do manto lunar.\n\n═══════════════════════════════════════\n\n📚 CAPÍTULOS:\n0:00 - Ja deixou o Like?\n0:56 - Por que a Lua é tão estranha\n2:52 - Chang'e 4: Primeiro pouso no lado oculto\n4:50 - Chang'e 5: O novo mineral Changesite\n7:06 - Chang'e 6: Amostras do lado oculto\n8:50 - Água e a assimetria lunar\n10:53 - O que isso significa para nós\n11:48 - O futuro da exploração lunar\n\n═══════════════════════════════════════\n\n🔗 FONTES:\nNature — Chang'e-6 Lunar Far Side Samples (2025)\nhttps://www.nature.com/articles/s4158...\nScience — Chang'e-6 Basalt Dating (2024)\nhttps://www.science.org/doi/10.1126/s...\nScienceDaily — Chang'e-6 Volcanic and Magnetic Discoveries (2025)\nhttps://www.sciencedaily.com/releases...\nCNSA — Chang'e 6 Mission (2024)\nhttps://www.cnsa.gov.cn/english/n6465...\nScientific American — China Returns First-Ever Far Side Samples (2024)\nhttps://www.scientificamerican.com/ar...\nXinhua — Changesite-(Y) Discovery (2022)\nhttps://english.news.cn/20220909/4303...\nThe Planetary Society — Chang'e-6 Mission Overview\nhttps://www.planetary.org/space-missi...\n\n ═══════════════════════════════════════ \n\n📚 QUER SE APROFUNDAR E COMEÇAR A EXPLORAR O COSMOS EM CASA?\n\nExplorar o cosmos é mais barato do que você imagina! (Telescópio):\n\nhttps://amzn.to/4hKBiA7\n\n\nGuia Prático Para Astronomia Observacional (Livro):\n\nhttps://amzn.to/4qJ8IDn\n\n\nAstrofísica para apressados (Livro):\n\nhttps://amzn.to/48Ypxnv\n\n\nA História do Sistema Solar para quem tem pressa (Livro):\n\nhttps://amzn.to/47DScf1\n\n\nCosmos Carl Sagan (Livro):\n\nhttps://amzn.to/47Gg162\n\n\n\nMantenha-se curioso! 🌙\n\n#lua #china #change6 #helio3 #exploraçãoespacial #NASA #artemis #espaço",
+      "transcript": null,
+      "iteration": 19,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:05:40.150177"
+    },
+    {
+      "video_id": "64ObZPoPoCQ",
+      "url": "https://www.youtube.com/watch?v=64ObZPoPoCQ",
+      "title": "A Índia Chegou Primeiro na Lua — E O Que Ela Encontrou Muda Tudo",
+      "description": "O QUE A ÍNDIA ENCONTROU NA LUA — E O QUE ISSO SIGNIFICA PARA O FUTURO\n\nExiste uma corrida espacial acontecendo agora mesmo. Não é por território ou prestígio — é por água. O recurso mais valioso para qualquer futura colônia lunar. E a Índia foi a primeira a chegar na região mais cobiçada da Lua: o polo sul.\n\nO que a missão Chandrayaan-3 descobriu — e o que ela NÃO encontrou — vai mudar a forma como planejamos colonizar a Lua.\n\n═══════════════════════════════════════\n\n📚 CAPÍTULOS:\n0:00 - Já deixou o like?\n0:51 - Chandrayaan-1 e a descoberta de água\n2:38 - Por que a água é tão importante\n4:46 - O polo sul: a região mais difícil\n5:46 - Descoberta: a Lua é elétrica\n7:30 - O mistério debaixo da superfície\n9:14 - Enxofre e a história antiga da Lua\n11:52 - Onde está a água afinal?\n14:12 - O que aprendemos\n\n═══════════════════════════════════════\n\n🔗 FONTES:\nNASA Chandrayaan-1 Mission https://science.nasa.gov/mission/chan...\nISRO Chandrayaan-3 Official https://www.isro.gov.in/Chandrayaan3....\nNature - Thermal Conductivity of Lunar Regolith (Março 2025) https://www.nature.com/articles/s4159...\nNature - Higher Surface Temperatures at South Pole (Março 2025) https://www.nature.com/articles/s4324...\nOxford Academic - High-Resolution Thermal Profiles (Março 2025) https://academic.oup.com/mnras/articl...\nNASA ShadowCam Images Permanently Shadowed Regions https://www.nasa.gov/blogs/artemis/20...\nPlanetary Society - Danuri Mission https://www.planetary.org/space-missi...\nSpace.com - Chandrayaan-3 Sulfur Discovery https://www.space.com/chandrayaan-3-s...\nPBS - Sulfur Findings Pave Way for Moon Bases https://www.pbs.org/newshour/science/...\nWikipedia - Chandrayaan-3 https://en.wikipedia.org/wiki/Chandra...\nWikipedia - Pragyan Rover https://en.wikipedia.org/wiki/Pragyan...)\nWikipedia - Chang'e 6 https://en.wikipedia.org/wiki/Chang'e_6\nScientific American - Chang'e 6 Far Side Samples https://www.scientificamerican.com/ar...\nNational Geographic - Moon's Permanently Shadowed Regions https://www.nationalgeographic.com/sc...\nBrown University - M3 Water Discovery https://news.brown.edu/articles/2009/...\nISRO - Chandrayaan-3 Discoveries Timeline https://organiser.org/2025/07/20/3032...\nDiscover Magazine - Chandrayaan-3 Mission https://www.discovermagazine.com/the-...\n\n═══════════════════════════════════════\n\n📚 QUER SE APROFUNDAR E COMEÇAR A EXPLORAR O COSMOS EM CASA?\n\nExplorar o cosmos é mais barato do que você imagina! (Telescópio):\n\nhttps://amzn.to/4hKBiA7\n\n\nGuia Prático Para Astronomia Observacional (Livro):\n\nhttps://amzn.to/4qJ8IDn\n\n\nAstrofísica para apressados (Livro):\n\nhttps://amzn.to/48Ypxnv\n\n\nA História do Sistema Solar para quem tem pressa (Livro):\n\nhttps://amzn.to/47DScf1\n\n\nCosmos Carl Sagan (Livro):\n\nhttps://amzn.to/47Gg162\n\n\n\n\nMantenha-se curioso! 🌌\n\n\n\n#NASA #chandrayaan3 #india lua #polo sul lunar",
+      "transcript": null,
+      "iteration": 20,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:06:07.692473"
+    }
+  ],
+  "edges": [
+    {
+      "source": "q0S4ct-DL84",
+      "target": "GFLBGCzvBz8",
+      "iteration": 1
+    },
+    {
+      "source": "GFLBGCzvBz8",
+      "target": "HeuQ1-b7Ucs",
+      "iteration": 2
+    },
+    {
+      "source": "HeuQ1-b7Ucs",
+      "target": "H-nHaQ0zWao",
+      "iteration": 3
+    },
+    {
+      "source": "H-nHaQ0zWao",
+      "target": "mSXc24nT-qY",
+      "iteration": 4
+    },
+    {
+      "source": "mSXc24nT-qY",
+      "target": "WYISLhJYdjI",
+      "iteration": 5
+    },
+    {
+      "source": "WYISLhJYdjI",
+      "target": "F2naVnn4N2g",
+      "iteration": 6
+    },
+    {
+      "source": "F2naVnn4N2g",
+      "target": "Z92-s4brKyM",
+      "iteration": 7
+    },
+    {
+      "source": "Z92-s4brKyM",
+      "target": "T9VXppIpp0E",
+      "iteration": 8
+    },
+    {
+      "source": "T9VXppIpp0E",
+      "target": "kb8W5otxP8M",
+      "iteration": 9
+    },
+    {
+      "source": "kb8W5otxP8M",
+      "target": "T-DwDUW4fh0",
+      "iteration": 10
+    },
+    {
+      "source": "T-DwDUW4fh0",
+      "target": "L_4RBk9HBOw",
+      "iteration": 11
+    },
+    {
+      "source": "L_4RBk9HBOw",
+      "target": "8mPHl1WqvWg",
+      "iteration": 12
+    },
+    {
+      "source": "8mPHl1WqvWg",
+      "target": "kJlCRZEwmEY",
+      "iteration": 13
+    },
+    {
+      "source": "kJlCRZEwmEY",
+      "target": "o13PCsgkpOs",
+      "iteration": 14
+    },
+    {
+      "source": "o13PCsgkpOs",
+      "target": "ztFSfmQDwhY",
+      "iteration": 15
+    },
+    {
+      "source": "ztFSfmQDwhY",
+      "target": "RKsCr-9J_r8",
+      "iteration": 16
+    },
+    {
+      "source": "RKsCr-9J_r8",
+      "target": "5Pj-_856SH8",
+      "iteration": 17
+    },
+    {
+      "source": "5Pj-_856SH8",
+      "target": "p-xO9FXvXDs",
+      "iteration": 18
+    },
+    {
+      "source": "p-xO9FXvXDs",
+      "target": "64ObZPoPoCQ",
+      "iteration": 19
+    }
+  ]
+}

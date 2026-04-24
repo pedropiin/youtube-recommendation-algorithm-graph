@@ -1,0 +1,138 @@
+{
+  "num_nodes": 1086,
+  "num_edges": 1277,
+  "density": 0.0010837555482003888,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 32,
+  "num_strongly_connected_components": 708,
+  "avg_in_degree": 1.1758747697974217,
+  "avg_out_degree": 1.1758747697974217,
+  "max_in_degree": 8,
+  "max_out_degree": 7,
+  "top_in_degree": [
+    {
+      "video_id": "1V5Ao3WSLFY",
+      "in_degree": 8,
+      "title": "E AGORA, NEYMAR??? \"Nos BASTIDORES, o ANCELOTTI JÁ TERIA ATÉ FALADO que...\" OLHA essa REVELAÇÃO!"
+    },
+    {
+      "video_id": "hT24eKBTeMw",
+      "in_degree": 8,
+      "title": "Análise: Irã ainda demonstra capacidade de desgastar EUA e Trump | WW"
+    },
+    {
+      "video_id": "9jcXoS1Q9bA",
+      "in_degree": 6,
+      "title": "A Vida Cotidiana na Roma Antiga em 117 d.C.: Como REALMENTE Era"
+    },
+    {
+      "video_id": "NXO1arrpwZ8",
+      "in_degree": 6,
+      "title": "FUI ENGANADO POR UMA GUERREIRA K-POP GRÁVIDA"
+    },
+    {
+      "video_id": "p16jrOQSq3A",
+      "in_degree": 5,
+      "title": "👽Alienígenas e Sumérios: ELES SABIAM DEMAIS? 👀🛸 | ALIENÍGENAS DO PASSADO"
+    },
+    {
+      "video_id": "ds_2Ro_lzpc",
+      "in_degree": 5,
+      "title": "EXCLUSIVO: Espiões russos espalham fake news contra Milei a mando do Kremlin"
+    },
+    {
+      "video_id": "c1fns4s5Vbo",
+      "in_degree": 4,
+      "title": "Como Irã abateu os caças americanos? Entenda a evolução estratégica por trás da artilharia"
+    },
+    {
+      "video_id": "OESUnWwWQrg",
+      "in_degree": 4,
+      "title": "MASSINI ESTÁ EMPOLGADO COM O PALMEIRAS \"TIME TÁ COM CARA DE CAMPEÃO\"."
+    },
+    {
+      "video_id": "BAQgWX39T9Q",
+      "in_degree": 4,
+      "title": "Trump x Otan: Guerra provocará colapso da aliança? | Fora da Ordem"
+    },
+    {
+      "video_id": "iSTHeV7yGP4",
+      "in_degree": 4,
+      "title": "CAÇA AOS OVOS DE PÁSCOA COM ENIGMAS | Luluca"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "ZNoHyCqkfOM",
+      "out_degree": 7,
+      "title": "Análise: O discurso de Trump versus a realidade dos EUA no Irã | WW"
+    },
+    {
+      "video_id": "1V5Ao3WSLFY",
+      "out_degree": 5,
+      "title": "E AGORA, NEYMAR??? \"Nos BASTIDORES, o ANCELOTTI JÁ TERIA ATÉ FALADO que...\" OLHA essa REVELAÇÃO!"
+    },
+    {
+      "video_id": "TP2SOSt2RDg",
+      "out_degree": 5,
+      "title": "WW - 03/04/2026"
+    },
+    {
+      "video_id": "c1fns4s5Vbo",
+      "out_degree": 4,
+      "title": "Como Irã abateu os caças americanos? Entenda a evolução estratégica por trás da artilharia"
+    },
+    {
+      "video_id": "OBWcpq9Uii0",
+      "out_degree": 4,
+      "title": "URGENTE: Lula quer DESISTIR e Janja já escolheu um apê no Rio para morar em 2027!"
+    },
+    {
+      "video_id": "urNUaz8zLhA",
+      "out_degree": 4,
+      "title": "⁠O ESTADO DE ISRAEL ESTÁ PRÓXIMO DO FIM? | ANÁLISE COM BRENO E TOM ALTMAN"
+    },
+    {
+      "video_id": "9jcXoS1Q9bA",
+      "out_degree": 4,
+      "title": "A Vida Cotidiana na Roma Antiga em 117 d.C.: Como REALMENTE Era"
+    },
+    {
+      "video_id": "hTSaweR8qMI",
+      "out_degree": 4,
+      "title": "Encontro de US$ 1 vs de US$ 500 mil"
+    },
+    {
+      "video_id": "ui2rBc-sUEc",
+      "out_degree": 4,
+      "title": "Trump tenta dividir responsabilidade em meio à crise e perda de apoio, aponta especialista | HORA H"
+    },
+    {
+      "video_id": "hBs0sg4u0oM",
+      "out_degree": 4,
+      "title": "😱👀 Os maiores sarcófogos do Egito 💀⚰️ ALIENÍGENAS DO PASSADO | HISTORY"
+    }
+  ],
+  "scc_sizes": [
+    103,
+    34,
+    21,
+    14,
+    13,
+    11,
+    10,
+    9,
+    9,
+    8,
+    7,
+    7,
+    7,
+    7,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
+  ]
+}

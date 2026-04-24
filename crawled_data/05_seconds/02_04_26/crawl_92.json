@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 5,
+    "seed_video_id": "p0r3DkG07p0",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T08:08:55.998514",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "p0r3DkG07p0",
+      "url": "https://www.youtube.com/watch?v=p0r3DkG07p0",
+      "title": "1º de Abril dia da….",
+      "description": "Seja bem-vindo(a) ao meu universo! 🌟\n\nAqui a gente ri de tudo, principalmente da vida! Este canal é dedicado a histórias engraçadas, situações do dia a dia que viram comédia e muito bom humor.\n\nSe você também acredita que uma boa risada é a melhor terapia, você acabou de encontrar seu lugar! Vamos construir uma comunidade legal juntos, então sinta-se em casa, comente os vídeos e me conte suas histórias também!\n\nNão esqueça de: ✅ Se inscrever para não perder nenhuma aventura! ✅ Ativar o sininho 🔔 para ser o primeiro a ver os novos vídeos! ✅ Compartilhar com aquele amigo que também precisa dar uma risada.\n\nTamo junto e valeu pelo apoio! ❤️🫶\n\n#humor #comedia #historias #shorts #risada #diaadia",
+      "transcript": "Pesquisar transcrição Primeiro de abril, professora. É sim, Y. E hoje é o único dia que eu, como professora, posso contar uma mentirinha. Espera o Paulinho chegar, então, professora. Aí a senhora trolla ele. Boa. Gostei da sua ideia, Yudi. Foi mal pelo atraso aí, professora. Paulinho, eu tava mesmo esperando você chegar. Eu preciso te contar uma coisa. Aí a senhora me assusta. Eu também tenho uma coisa para te contar, professor. Ele tá achando mesmo que vai me trollar nesse primeiro de abril. E o que que é? Tive uma ideia. Vamos contar junto no três, tá? Um, dois, três. Você, infelizmente, não vai poder ir no passeio da escola, Paulinho, porque a sua nota foi muito baixa. Eu vi seu marido te traindo. [risadas] Primeiro de abril, seu bobo. 27 de março.",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T08:07:04.295089"
+    },
+    {
+      "video_id": "zr6QJDlGEjY",
+      "url": "https://www.youtube.com/watch?v=zr6QJDlGEjY",
+      "title": "Meus Melhores Animais de Estimação de 2025 (até agora)",
+      "description": "#petshop  #filme\n\nAté agora, em 2025, eu criei mais de 10 animais de estimação extremamente únicos de todos os cantos do mundo. Então transformei todos os vídeos separados em uma grande compilação de filme. Axolotes, piranhas, viúvas-negras e até cobras de duas cabeças... Então pega uma pizza e uns petiscos, porque você está prestes a embarcar numa jornada insana.\n\nPor favor, se inscreva :D",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T08:07:20.491220"
+    }
+  ],
+  "edges": [
+    {
+      "source": "p0r3DkG07p0",
+      "target": "zr6QJDlGEjY",
+      "iteration": 1
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 60,
+    "seed_video_id": "h3FsipxZHGM",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T00:21:40.808960",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "h3FsipxZHGM",
+      "url": "https://www.youtube.com/watch?v=h3FsipxZHGM",
+      "title": "NUNCA VENHA NESSE RESTAURANTE! - COOKING SIMULATOR 2 COM OS AMIGOS",
+      "description": "OS MAIORES DESCONTOS ESTÃO NO KABUM!:\nhttp://kb1.me/alanzokakabumyt\n\n💜 LIVE:   / alanzoka  \n📷 Instagram:   / alanzoka  \n📧 alanzoka@vandep.ag\n🐤 Twitter:   / alanzoka  \n\n\n\n\n#Alanzoka",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T00:20:04.880528"
+    }
+  ],
+  "edges": []
+}

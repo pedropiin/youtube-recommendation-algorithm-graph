@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 60,
+    "seed_video_id": "SkF7CaBHIZE",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T00:22:51.660224",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "SkF7CaBHIZE",
+      "url": "https://www.youtube.com/watch?v=SkF7CaBHIZE",
+      "title": "Júnior Baiano Prime ☠️🔥 #futebol #zagueiro #flamengo",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T00:20:01.339709"
+    },
+    {
+      "video_id": "Tn9SYAMf-ns",
+      "url": "https://www.youtube.com/watch?v=Tn9SYAMf-ns",
+      "title": "Jogadas Lendárias de Ronaldo Fenômeno",
+      "description": "Jogadas Lendárias de Ronaldo Fenômeno\n#futebol #ronaldo #gols #dribles #ronaldofenomeno",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T00:21:15.786849"
+    }
+  ],
+  "edges": [
+    {
+      "source": "SkF7CaBHIZE",
+      "target": "Tn9SYAMf-ns",
+      "iteration": 1
+    }
+  ]
+}

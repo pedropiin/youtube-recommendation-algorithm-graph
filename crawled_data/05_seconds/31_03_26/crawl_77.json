@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 5,
+    "seed_video_id": "bA7x-kJjY6g",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T22:02:17.151063",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "bA7x-kJjY6g",
+      "url": "https://www.youtube.com/watch?v=bA7x-kJjY6g",
+      "title": "Bola de Pape Higiênico",
+      "description": null,
+      "transcript": "Se você pegar papel higiênico e molhar, você tem essa bola que gruda em qualquer lugar. Dá para jogar no seu irmão, na parede. Nossa! E até em um alvo em movimento. Minha vez. Ai, mas nunca chame alguém para uma batalha de bolinhas. Vai. [música] Ah! Ah. Sincronizar com o momento do vídeo",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:00:17.630483"
+    },
+    {
+      "video_id": "xPXcAHMQHJY",
+      "url": "https://www.youtube.com/watch?v=xPXcAHMQHJY",
+      "title": "Compilado dos vídeos mais engraçados da Peppa porca! (Novos episódios) 😂🤣",
+      "description": "🐷😂 Peppa Porca está de volta em um compilado insano de trapalhadas e momentos hilários!\nPrepare-se para rir muito com as maiores confusões da Peppa e companhia. Será que você consegue assistir até o final nesse DESAFIO: TENTE NÃO RIR?\n\n👉 Se gostou, deixe o like 👍, se inscreva no canal 🔔 e compartilhe com os amigos para espalhar a zoeira!\n\n⚡️Vídeos engraçados, momentos épicos e risadas garantidas estão aqui no canal da Peppa Porca!\n\n#PeppaPorca #TenteNãoRir #VídeosEngraçados #Compilado #Humor #Peppa #Meme",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T22:00:39.533950"
+    }
+  ],
+  "edges": [
+    {
+      "source": "bA7x-kJjY6g",
+      "target": "xPXcAHMQHJY",
+      "iteration": 1
+    }
+  ]
+}

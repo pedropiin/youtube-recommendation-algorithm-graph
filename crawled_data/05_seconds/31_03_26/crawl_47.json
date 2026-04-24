@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 5,
+    "seed_video_id": "ySJiwHSe5Ss",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T21:14:18.490856",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "ySJiwHSe5Ss",
+      "url": "https://www.youtube.com/watch?v=ySJiwHSe5Ss",
+      "title": "Veja o que ele fez no final 🤡",
+      "description": "@odanielgontijo em todas as redes sociais!\n\nOs vídeos do Dani são feitos para tentar alegrar um pouco o seu dia, contando para meus seguidores histórias engraçadas do meu dia a dia que você possa se identificar e sorrir com esse humor cotidiano! 😊\nAqui você vai se deparar com histórias sobre a escola, minha mãe, meus amigos e tantas outras aventuras que todos nós passamos todos os dias. 😎👍\nTento fazer uma comédia leve e identificável, pois assim todas as pessoas conseguem entender o assunto dos meus vídeos. Então não importa a sua idade, você SEMPRE será bem-vindo ou bem-vinda ao canal Daniel Gontijo! 🫶",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T21:12:40.914555"
+    }
+  ],
+  "edges": []
+}

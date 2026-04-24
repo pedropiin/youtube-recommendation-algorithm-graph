@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 30,
+    "seed_video_id": "v5TReeO1umQ",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T22:31:21.895900",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "v5TReeO1umQ",
+      "url": "https://www.youtube.com/watch?v=v5TReeO1umQ",
+      "title": "Darksiders Warmastered Edition - Announcement Trailer | PS5 Games",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-03-31T22:31:18.551239"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 50,
+    "watch_time_seconds": 5,
+    "seed_video_id": "EDMks3XnnDU",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T07:25:36.526478",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "EDMks3XnnDU",
+      "url": "https://www.youtube.com/watch?v=EDMks3XnnDU",
+      "title": "AQUELA TIA GENTE BOA QUE TE TRATA MELHOR QUE SUA MÃE 😹 KKKK",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-04T07:24:00.847197"
+    }
+  ],
+  "edges": []
+}

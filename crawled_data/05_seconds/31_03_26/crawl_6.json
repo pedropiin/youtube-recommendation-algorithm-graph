@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 5,
+    "seed_video_id": "gjbmBu3LVJE",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T20:11:34.125195",
+    "total_videos": 3,
+    "total_edges": 2
+  },
+  "videos": [
+    {
+      "video_id": "gjbmBu3LVJE",
+      "url": "https://www.youtube.com/watch?v=gjbmBu3LVJE",
+      "title": "Tapa falso",
+      "description": "#shorts #funny #humor #trending #xinglau",
+      "transcript": "Pesquisar transcrição Esse tapa não é real. Eu tô bem, mas esse é. Ai. E vamos fingir na frente da minha mãe para ver a reação dela. Você bateu nele? Porque parece que ela gosta mais dele do que de mim. Então quando ela saiu, começamos a treinar muito. Ela mandou um áudio. Lucas, daqui 5 minutos eu volto. Temos que correr. Eu sei que tava parecendo real, mas ainda não tava perfeito. Ai, errei. Então eu dei um conselho. Quando você deixar o like, ele vira o rosto. 3 2 1. Perfeito. Então escondi a câmera atrás de uma planta e aconteceu isso. Eu já falei que eu não peguei nada, cara. Eu já te falei, eu não peguei nada, cara. Você tá me acusando e eu não fiz nada. Você pegou meu desculpa s. Caramba, cara.",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T20:08:54.132976"
+    },
+    {
+      "video_id": "76w-FMfq1Cw",
+      "url": "https://www.youtube.com/watch?v=76w-FMfq1Cw",
+      "title": "CADRES foi ADOTADO pela LILY LOVEBRAIDS!",
+      "description": "💚Compre já os PRODUTOS CADRES nas melhores lojas do Brasil ou clicando no link: https://loja.cadresstudio.com\n🛍️Quer mais opções? Confira também os produtos customizados do Cadres na 2WAVE: https://www.2wave.com.br/personagens/...  \n----\nJá garantiu o seu álbum de figurinhas? Corre pra completar, trocar com os amigos e entrar nessa aventura colecionável!  \n---\n🔸Instagram:   / cadresss    \n🔹Twitter:   / cadres19    \n----\n📩Contato comercial: comercial@agenciacurta.com  \n\n#minecraft #publi",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T20:09:28.812938"
+    },
+    {
+      "video_id": "IaoNgLHKYOs",
+      "url": "https://www.youtube.com/watch?v=IaoNgLHKYOs",
+      "title": "JOGANDO como RORY REDCAPE AJUDANTE no Minecraft! (Irmão da LILY LOVEBRAIDS)",
+      "description": "#donat3lo #minecraft",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T20:09:57.675941"
+    }
+  ],
+  "edges": [
+    {
+      "source": "gjbmBu3LVJE",
+      "target": "76w-FMfq1Cw",
+      "iteration": 1
+    },
+    {
+      "source": "76w-FMfq1Cw",
+      "target": "IaoNgLHKYOs",
+      "iteration": 2
+    }
+  ]
+}

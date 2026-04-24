@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 60,
+    "seed_video_id": "mIG-lXpS5W4",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T09:48:33.090936",
+    "total_videos": 3,
+    "total_edges": 2
+  },
+  "videos": [
+    {
+      "video_id": "mIG-lXpS5W4",
+      "url": "https://www.youtube.com/watch?v=mIG-lXpS5W4",
+      "title": "SE SAUDADE SENTIR - MC LIVINHO MC PEDRINHO ( DJ PERERA ORIGINAL JB MIX ) SE PREPARA 3",
+      "description": null,
+      "transcript": "Pesquisar transcrição [música] É [música] isso. Vai começar. Um pingo é letra. Entende? Você tá agindo assim. A sua indecisão vai nos direcionar pro fim. Tantas. Eu deixei de comer só por amar. Você não foi esforço, foi respeito que eu escolhi ter. Então se [música] atenta aos detalhes que eu sou minucioso. Se caiu na rotina eu inicio o jogo. Cordial despedida. Manda só necessária. Toma só cota e macho. Aqui na caça tem vários. Opa, opa, opa, opa. Já que a última vez que [música] vem buscar suas coisas, eu vou te botar. Que saudade sentir não tem mais voltar [música] pelo fim. Suas amigas fingindo se preocupar. Melhor amiga de você agora é infeta minha. A última vez que vem buscar suas coisas eu vou te botar. Se saudade de sentir não tem mais voltar pelo fim suas amigas fingindo [música] se preocupar. Melhor amiga de você agora é ninfeta minha. Vai começar a [ __ ] [música] Já te mix mais uma, né? Opa, opa, opa, opa. Pingo é letra, entende? Setagem. Ainda assim a sua indecisão vai nos direcionar [música] pro fim. Tantas eu deixei de comer só por amar. Você não [música] foi esforço, foi respeito que eu escolhi ter. Então se atenta aos detalhes que eu sou [música] minucioso. Se caiu na rotina, eu reinicio [canto] o jogo. Cordeial despedida. Manda só necessária. Só uma [música] sócota e na que na casa tem várias. Opa, opa, opa, opa. Já que a última vez que vem buscar suas coisas, eu vou te botar. Saudade sem ti. Não tem, não tem mais altar. [música] pelo fimos amigos fingiram se preocupar a melhor amiga de você agora é nem feita minha vez que vem buscar suas coisas eu vou te botar se saudade sentir não tem mais voltar deixe pelo frente suas amigas fingiram se preocupar [música] a melhor amiga de você agora é enfetament opa opa [música] vai começar a [ __ ] [música] Opa, opa, opa, opa. [música] [música] Jix, mais uma, né? Opa, opa, opa, opa. [música]",
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-04T09:44:32.613910"
+    },
+    {
+      "video_id": "E7UBYWn_69c",
+      "url": "https://www.youtube.com/watch?v=E7UBYWn_69c",
+      "title": "Melhores Musicas 2026 - Sertanejo 2026 Mais Tocadas - As Melhores Do Sertanejo Universitário",
+      "description": "#sertanejo #musicas #gusttavo lima\n------\nLink: Melhores Musicas 2026 - Sertanejo 2026 Mais Tocadas - As Melhores Do Sertanejo Universitário\n   • Melhores Musicas 2026 - Sertanejo 2026 Mai...  \nThanks for watching! Don't forget to SUBCRIBE, Like & Share my video if you enjoy it! Have a nice day!\nSertanejo 2020. : https://bom.to/jSqAes\nPlaylist              : https://bom.to/3xwCBx\n#mariliamendonca #repertorionovo #cd2019#TOPSERTANEJO2020  #sertanejo2020",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-04T09:45:46.203919"
+    },
+    {
+      "video_id": "YgF8Kzzkkck",
+      "url": "https://www.youtube.com/watch?v=YgF8Kzzkkck",
+      "title": "Menos É Mais 2026 – As Melhores Músicas 🎤 Pagode Mais Tocadas 2026",
+      "description": "Os maiores sucessos de Grupo Menos É Mais em uma seleção com os pagodes mais tocados de 2026.\n\n• Hits atualizados\n• Repertório envolvente\n• Só as mais tocadas",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 60,
+      "timestamp": "2026-04-04T09:46:57.280491"
+    }
+  ],
+  "edges": [
+    {
+      "source": "mIG-lXpS5W4",
+      "target": "E7UBYWn_69c",
+      "iteration": 1
+    },
+    {
+      "source": "E7UBYWn_69c",
+      "target": "YgF8Kzzkkck",
+      "iteration": 2
+    }
+  ]
+}

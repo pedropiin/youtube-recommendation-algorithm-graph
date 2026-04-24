@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 5,
+    "seed_video_id": "52BUnI_84Uk",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T07:42:05.132221",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "52BUnI_84Uk",
+      "url": "https://www.youtube.com/watch?v=52BUnI_84Uk",
+      "title": "LOKIS CORRENDO DO ARANHA | Roblox",
+      "description": "Hoje veremos o Lokis correndo do aranha.",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T07:40:29.315833"
+    }
+  ],
+  "edges": []
+}

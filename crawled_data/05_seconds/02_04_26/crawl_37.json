@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 5,
+    "seed_video_id": "aDi-4GH-QXo",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T05:13:33.352136",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "aDi-4GH-QXo",
+      "url": "https://www.youtube.com/watch?v=aDi-4GH-QXo",
+      "title": "Truque da Fatia de Melancia!",
+      "description": "Obrigado @zackdfilms por me mostrar como comer uma melancia do jeito certo. \n\nRoupas Bucketsquad ► https://bit.ly/46BBxcQ\n\nSiga-me @Jesser no Instagram para novos IG Reels ou eu vou fazer uma enterrada em você\n\n★ Siga-me nas redes sociais @Jesser ★\n●Instagram   / jesser  \n●Twitter   / jesser  \n\n#BucketSquad",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T05:11:57.546028"
+    }
+  ],
+  "edges": []
+}

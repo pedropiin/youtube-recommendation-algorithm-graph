@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 60,
+    "seed_video_id": "yu9oR2dLqXg",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T10:59:47.942679",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "yu9oR2dLqXg",
+      "url": "https://www.youtube.com/watch?v=yu9oR2dLqXg",
+      "title": "HOJE É NÓIS, DEPOIS É DE NOVO - Lele JP, MC Lemos, Nathan ZK (DJ GM)",
+      "description": "Inscrevam-se no NOVO CANAL da REVELAÇÃO NA FAVELA:\n\nSiga nosso Instagram:\n@RevelacaoNaFavela\n@LoveFunkProdutora\n\nEste videofonograma é um produto original e próprio da Gravadora e Editora LOVE FUNK. A cópia dele ou o reenvio do mesmo resultará em grandes implicações ao seu canal do youtube ou até a exclusão do mesmo.\n\nLOVE FUNK FILMES ®",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-04T10:58:12.519002"
+    }
+  ],
+  "edges": []
+}

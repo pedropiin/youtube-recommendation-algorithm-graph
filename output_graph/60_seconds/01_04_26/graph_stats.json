@@ -1,0 +1,138 @@
+{
+  "num_nodes": 860,
+  "num_edges": 973,
+  "density": 0.0013171075073774264,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 40,
+  "num_strongly_connected_components": 603,
+  "avg_in_degree": 1.1313953488372093,
+  "avg_out_degree": 1.1313953488372093,
+  "max_in_degree": 11,
+  "max_out_degree": 9,
+  "top_in_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "in_degree": 11,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "in_degree": 7,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "hRQyRl8wi0M",
+      "in_degree": 7,
+      "title": "Descobertas antigas que podem mudar a história| INEXPLICÁVEL COM WILLIAM SHATNER | EPISÓDIO COMPLETO"
+    },
+    {
+      "video_id": "MAGieHpQSQs",
+      "in_degree": 6,
+      "title": "WW - TRUMP TESTA LIMITES DA PACIÊNCIA MUNDIAL - 01/04/2026"
+    },
+    {
+      "video_id": "V4JMgL46I0s",
+      "in_degree": 6,
+      "title": "FLUMINENSE 3 X 1 CORINTHIANS | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO 2026"
+    },
+    {
+      "video_id": "FelUcHdbOi4",
+      "in_degree": 5,
+      "title": "[AO VIVO] JORNAL DA BAND - 01/04/2026"
+    },
+    {
+      "video_id": "4oHgiChjmvU",
+      "in_degree": 5,
+      "title": "PRENDEMOS A EMILLY NA MANSÃO DOS ROSA *Ela expulsou todos dos Rosa !"
+    },
+    {
+      "video_id": "1nQN35hC6dk",
+      "in_degree": 4,
+      "title": "O É da Coisa de 01/04/2026, com Reinaldo Azevedo: Fachin, o só; STF: Messias; Lula, Flávio, números"
+    },
+    {
+      "video_id": "UWwmp5Q4DKU",
+      "in_degree": 4,
+      "title": "Análise: Trump tenta convencer população americana com discurso cheio de justificativas | WW"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "in_degree": 4,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "out_degree": 9,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "out_degree": 7,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "V4JMgL46I0s",
+      "out_degree": 5,
+      "title": "FLUMINENSE 3 X 1 CORINTHIANS | MELHORES MOMENTOS | CAMPEONATO BRASILEIRO 2026"
+    },
+    {
+      "video_id": "4oHgiChjmvU",
+      "out_degree": 5,
+      "title": "PRENDEMOS A EMILLY NA MANSÃO DOS ROSA *Ela expulsou todos dos Rosa !"
+    },
+    {
+      "video_id": "UWwmp5Q4DKU",
+      "out_degree": 5,
+      "title": "Análise: Trump tenta convencer população americana com discurso cheio de justificativas | WW"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "out_degree": 5,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    },
+    {
+      "video_id": "FelUcHdbOi4",
+      "out_degree": 4,
+      "title": "[AO VIVO] JORNAL DA BAND - 01/04/2026"
+    },
+    {
+      "video_id": "n2TgdGUquDM",
+      "out_degree": 4,
+      "title": "BAHIA 3 X 0 ATHLETICO-PR | MELHORES MOMENTOS | 9ª RODADA BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "hRQyRl8wi0M",
+      "out_degree": 4,
+      "title": "Descobertas antigas que podem mudar a história| INEXPLICÁVEL COM WILLIAM SHATNER | EPISÓDIO COMPLETO"
+    },
+    {
+      "video_id": "DWvA72K6GYo",
+      "out_degree": 4,
+      "title": "\"Catástrofe total\": Coronel Macgregor critica duramente Trump em reação impulsiva ao discurso sob..."
+    }
+  ],
+  "scc_sizes": [
+    57,
+    18,
+    15,
+    14,
+    13,
+    10,
+    8,
+    7,
+    7,
+    6,
+    6,
+    6,
+    5,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4
+  ]
+}

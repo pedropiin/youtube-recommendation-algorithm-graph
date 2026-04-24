@@ -1,0 +1,138 @@
+{
+  "num_nodes": 8420,
+  "num_edges": 11167,
+  "density": 0.00015753023291113668,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 46,
+  "num_strongly_connected_components": 4682,
+  "avg_in_degree": 1.3262470308788599,
+  "avg_out_degree": 1.3262470308788599,
+  "max_in_degree": 33,
+  "max_out_degree": 22,
+  "top_in_degree": [
+    {
+      "video_id": "nHthikorJwk",
+      "in_degree": 33,
+      "title": "JOGO COMPLETO: BRASIL X CROÁCIA | AMISTOSO DA SELEÇÃO | ge tv"
+    },
+    {
+      "video_id": "h5G361Ft3sU",
+      "in_degree": 31,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "in_degree": 22,
+      "title": "EU TENHO UM IRMÃO GÊMEO?"
+    },
+    {
+      "video_id": "M7kf-GupIdY",
+      "in_degree": 21,
+      "title": "O GOLPE DO BANCO MASTER - DOCUMENTÁRIO ORIGINAL ICL"
+    },
+    {
+      "video_id": "mUVjTDCYJg4",
+      "in_degree": 21,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "MndPUBqYQvI",
+      "in_degree": 19,
+      "title": "Santo Rosário | 39° Dia | Tríduo Pascal 2026 | 03/04 | 03:40 | Live Ao vivo"
+    },
+    {
+      "video_id": "NXO1arrpwZ8",
+      "in_degree": 19,
+      "title": "FUI ENGANADO POR UMA GUERREIRA K-POP GRÁVIDA"
+    },
+    {
+      "video_id": "4oHgiChjmvU",
+      "in_degree": 16,
+      "title": "PRENDEMOS A EMILLY NA MANSÃO DOS ROSA *Ela expulsou todos dos Rosa !"
+    },
+    {
+      "video_id": "p16jrOQSq3A",
+      "in_degree": 15,
+      "title": "👽Alienígenas e Sumérios: ELES SABIAM DEMAIS? 👀🛸 | ALIENÍGENAS DO PASSADO"
+    },
+    {
+      "video_id": "LR1DD1UpYBQ",
+      "in_degree": 15,
+      "title": "As Mais Tocadas 2026, Hinos Evangélicos Mais Tocados, Melhores Louvores De Todos Os Tempos, Adoração"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "out_degree": 22,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "nHthikorJwk",
+      "out_degree": 20,
+      "title": "JOGO COMPLETO: BRASIL X CROÁCIA | AMISTOSO DA SELEÇÃO | ge tv"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "out_degree": 14,
+      "title": "EU TENHO UM IRMÃO GÊMEO?"
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "out_degree": 14,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "out_degree": 14,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "mUVjTDCYJg4",
+      "out_degree": 13,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "out_degree": 12,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    },
+    {
+      "video_id": "M7kf-GupIdY",
+      "out_degree": 11,
+      "title": "O GOLPE DO BANCO MASTER - DOCUMENTÁRIO ORIGINAL ICL"
+    },
+    {
+      "video_id": "MndPUBqYQvI",
+      "out_degree": 11,
+      "title": "Santo Rosário | 39° Dia | Tríduo Pascal 2026 | 03/04 | 03:40 | Live Ao vivo"
+    },
+    {
+      "video_id": "e3YZBM_hshM",
+      "out_degree": 10,
+      "title": "60 GRANDES FILMES QUE VÃO SER LANÇADOS ATÉ O FIM DE 2027 (Lista Completa)"
+    }
+  ],
+  "scc_sizes": [
+    2197,
+    33,
+    32,
+    21,
+    21,
+    20,
+    20,
+    18,
+    18,
+    15,
+    14,
+    14,
+    14,
+    13,
+    13,
+    13,
+    13,
+    11,
+    11,
+    11
+  ]
+}

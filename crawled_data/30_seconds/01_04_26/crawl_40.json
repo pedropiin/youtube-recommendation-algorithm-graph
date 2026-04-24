@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 30,
+    "seed_video_id": "ENfzaA6boaI",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:57:43.734490",
+    "total_videos": 8,
+    "total_edges": 7
+  },
+  "videos": [
+    {
+      "video_id": "ENfzaA6boaI",
+      "url": "https://www.youtube.com/watch?v=ENfzaA6boaI",
+      "title": "MENDONÇA SACODE BRASÍLIA! #noticia #brasil #bolsonaro #patriota #direita #reels",
+      "description": null,
+      "transcript": "Pesquisar transcrição Uma decisão expedida pelo André Mendonça nesta segunda-feira, dia 23 de março, está badalando Brasília. Ele disse pro Daniel Vorcar o seguinte: \"Eu quero nome de políticos e outros envolvidos do Supremo Tribunal Federal e mais ainda, eu quero que você conte aonde é que o dinheiro foi parar. Eu não quero só esse aqui recebeu tanto, esse aqui eu também paguei, não. Eu quero saber onde o dinheiro foi parar. Gente, isso é um terremoto.",
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:50:54.458060"
+    },
+    {
+      "video_id": "PhSqnZ4h5sY",
+      "url": "https://www.youtube.com/watch?v=PhSqnZ4h5sY",
+      "title": "COMO CALCULAR ÁREA DESSE TERRENO?",
+      "description": "📘 Apostila de Matemática com vídeo aulas:\nhttps://canalmarcematica.com.br/\n\n📲 Entre no canal do Telegram:\nhttps://t.me/canalmarcematica",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:51:38.913480"
+    },
+    {
+      "video_id": "yf5bAv8fuX0",
+      "url": "https://www.youtube.com/watch?v=yf5bAv8fuX0",
+      "title": "COMO CALCULAR ÁREA DESSE TRAPÉZIO? (MAIS DIFÍCIL DO QUE PARECE)",
+      "description": "📘 Apostila de Matemática com vídeo aulas:\nhttps://canalmarcematica.com.br/\n\n📲 Entre no canal do Telegram:\nhttps://t.me/canalmarcematica",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:52:23.100552"
+    },
+    {
+      "video_id": "CzBe-cUfNZI",
+      "url": "https://www.youtube.com/watch?v=CzBe-cUfNZI",
+      "title": "COMO CALCULAR A ÁREA DESSE TERRENO?",
+      "description": "📚BAIXE A APOSTILA AQUI👇 \nhttps://hotm.art/Apostila-Matematica\n\nCanal do Telegram:\nhttps://t.me/canalmarcematica\n\nAula de teorema de Pitágoras \n   • TEOREMA DE PITÁGORA | NA PRÁTICA  \n\nAula de geometria plana\n   • ÁREAS | GEOMETRIA PLANA | APRENDA NA PRÁTICA",
+      "transcript": null,
+      "iteration": 4,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:53:06.785419"
+    },
+    {
+      "video_id": "TsRhuC9Fz28",
+      "url": "https://www.youtube.com/watch?v=TsRhuC9Fz28",
+      "title": "COMO CALCULAR A ALTURA DESSE PRÉDIO?",
+      "description": "📚BAIXE A APOSTILA AQUI👇 \nhttps://hotm.art/Apostila-Matematica\n\nCanal do Telegram:\nhttps://t.me/canalmarcematica",
+      "transcript": null,
+      "iteration": 5,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:53:51.009268"
+    },
+    {
+      "video_id": "FgZcBr88TjE",
+      "url": "https://www.youtube.com/watch?v=FgZcBr88TjE",
+      "title": "COMO CALCULAR A ÁREA DESSE QUADRADO MAIOR?",
+      "description": "📚BAIXE A APOSTILA AQUI👇 \nhttps://hotm.art/Apostila-Matematica\n\nCanal do Telegram:\nhttps://t.me/canalmarcematica",
+      "transcript": null,
+      "iteration": 6,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:54:36.580061"
+    },
+    {
+      "video_id": "dzpISP6O9CM",
+      "url": "https://www.youtube.com/watch?v=dzpISP6O9CM",
+      "title": "COMO CALCULAR A ÁREA DESSE TERRENO?",
+      "description": "📚BAIXE A APOSTILA AQUI👇 \nhttps://hotm.art/Apostila-Matematica\n\nCanal do Telegram:\nhttps://t.me/canalmarcematica",
+      "transcript": null,
+      "iteration": 7,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:55:20.451296"
+    },
+    {
+      "video_id": "keYOw7cW6q8",
+      "url": "https://www.youtube.com/watch?v=keYOw7cW6q8",
+      "title": "COMO CALCULAR A ÁREA DESSE TERRENO?",
+      "description": "📚BAIXE A APOSTILA AQUI👇 \nhttps://hotm.art/Apostila-Matematica\n\nCanal do Telegram:\nhttps://t.me/canalmarcematica",
+      "transcript": null,
+      "iteration": 8,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:56:07.350132"
+    }
+  ],
+  "edges": [
+    {
+      "source": "ENfzaA6boaI",
+      "target": "PhSqnZ4h5sY",
+      "iteration": 1
+    },
+    {
+      "source": "PhSqnZ4h5sY",
+      "target": "yf5bAv8fuX0",
+      "iteration": 2
+    },
+    {
+      "source": "yf5bAv8fuX0",
+      "target": "CzBe-cUfNZI",
+      "iteration": 3
+    },
+    {
+      "source": "CzBe-cUfNZI",
+      "target": "TsRhuC9Fz28",
+      "iteration": 4
+    },
+    {
+      "source": "TsRhuC9Fz28",
+      "target": "FgZcBr88TjE",
+      "iteration": 5
+    },
+    {
+      "source": "FgZcBr88TjE",
+      "target": "dzpISP6O9CM",
+      "iteration": 6
+    },
+    {
+      "source": "dzpISP6O9CM",
+      "target": "keYOw7cW6q8",
+      "iteration": 7
+    }
+  ]
+}

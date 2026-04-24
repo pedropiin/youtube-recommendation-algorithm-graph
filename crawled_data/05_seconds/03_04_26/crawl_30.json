@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 50,
+    "watch_time_seconds": 5,
+    "seed_video_id": "0w7W6wWqINU",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-04T04:20:38.844885",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "0w7W6wWqINU",
+      "url": "https://www.youtube.com/watch?v=0w7W6wWqINU",
+      "title": "Nós Dois - Seu Desejo | DVD O Tempo Não Para (Ao Vivo em São Paulo)",
+      "description": "Fiquei assim sem saber direito o que fazer\nPerdi a noção de tempo e espaço ao te olhar\nSó sei que meu corpo pediu\nE eu tive que obedecer\nNaquele instante eu nem conseguia pensar\nPalavras se perderam\nSomente os olhos leram\nO que a gente desejava, ah\nEra só você e eu\nNós dois nos entregando aos poucos\nNós dois vivendo um pro outro\nE eu só quis ouvir sua respiração\nEu vi o quanto você me queria\nE mais e mais eu me envolvia\nDemais poder sentir aquela sensação\n\n\n#seudesejo #nosdois #yaratchê #alessandrocosta #forróromântico",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-04T04:19:03.457157"
+    }
+  ],
+  "edges": []
+}

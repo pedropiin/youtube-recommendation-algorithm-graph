@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 30,
+    "seed_video_id": "CY2BZv1IozU",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T01:13:52.663840",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "CY2BZv1IozU",
+      "url": "https://www.youtube.com/watch?v=CY2BZv1IozU",
+      "title": "Backrooms | Trailer Oficial Legendado",
+      "description": "Backrooms | Trailer Oficial Legendado\n\nAssista ao novo trailer de #Backrooms, terror estrelado por #ChiwetelEjiofor - 28 de maio nos cinemas! \n\nSomos o melhor destino para quem busca trailers assim que eles são lançados.\n\nSe você é fã de cinema como a gente, INSCREVA-SE e receba todas as novidades dos seus filmes favoritos!\n\n► Baixe nossos apps:\nAndroid: https://goo.gl/ZOknfm\niOS: https://goo.gl/hFbnMY\n\n► Compre ingressos para as melhores estreias: https://www.ingresso.com\n\n► Assine UOL e Ganhe R$ 20 Por Mês Para Usar com cinema na Ingresso.com: https://bit.ly/3yX0hyd\n\n► Siga a Ingresso no INSTAGRAM:   / ingressocom  \n\n► Curta a Ingresso no FACEBOOK:   / ingressocom  \n\n► Fique por dentro das novidades do universo do cinema no nosso canal no WHATSAPP: https://whatsapp.com/channel/0029Va58...",
+      "transcript": "Pesquisar transcrição [music] I found something in the store. Okay. What did you find? [bell] The place. I found a place. Hello. Anyone there? Look, I know how this sounds, but you got to understand it's massive in there. I'm not saying I don't believe you. Okay, I'm going to come back here with proof. All right, you feel me? Yeah. Follow my lead. Clark, what is this? That's what I'm trying to figure out. I've been here every night since I found the place, and I still barely scratched the surface. All right, just take it slow. Oh my god. Pull me up. Pull me up. Pull me up. What do you see? All these rooms, this place builds them. It's like a maze. It just goes on and on. Sometimes I'm scared I'll get lost. Clark, can you hear me? I don't understand. What is this? [screaming] It's beautiful. Am I right? Hello.",
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T01:11:34.022551"
+    },
+    {
+      "video_id": "H4dGpz6cnHo",
+      "url": "https://www.youtube.com/watch?v=H4dGpz6cnHo",
+      "title": "The Backrooms (Found Footage)",
+      "description": "September 23, 1996\n\n   • Mar11_90_ARCHIVE.tar  \n\n\n\nhttps://ko-fi.com/kanepixels",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T01:12:17.100154"
+    }
+  ],
+  "edges": [
+    {
+      "source": "CY2BZv1IozU",
+      "target": "H4dGpz6cnHo",
+      "iteration": 1
+    }
+  ]
+}

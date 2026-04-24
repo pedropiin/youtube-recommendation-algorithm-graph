@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 60,
+    "seed_video_id": "dkwPyRGIVYA",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T01:12:01.531999",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "dkwPyRGIVYA",
+      "url": "https://www.youtube.com/watch?v=dkwPyRGIVYA",
+      "title": "a cara da professora 🤣 #viral #fyp #shorts ##foryou",
+      "description": null,
+      "transcript": "Pesquisar transcrição Professora, é para copiar? É para copiar. Ah, tá bom. É no caderno.",
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T01:09:14.399754"
+    },
+    {
+      "video_id": "K2nTHoMLXuk",
+      "url": "https://www.youtube.com/watch?v=K2nTHoMLXuk",
+      "title": "Dudamaryah ❤️ (Com receitas🎂🍫) #receitas #dudamariahtiktok #dudamaryah",
+      "description": "uma série nova que no canal de slime que é da Dudamaryah não são de slime também de receitas, asmar,organizando e etc💜",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T01:10:26.009045"
+    }
+  ],
+  "edges": [
+    {
+      "source": "dkwPyRGIVYA",
+      "target": "K2nTHoMLXuk",
+      "iteration": 1
+    }
+  ]
+}

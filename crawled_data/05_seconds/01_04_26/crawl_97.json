@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 5,
+    "seed_video_id": "LEDIc1q4ymU",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T03:26:21.362397",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "LEDIc1q4ymU",
+      "url": "https://www.youtube.com/watch?v=LEDIc1q4ymU",
+      "title": "Others Knee Slide VS The Last One 💀",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T03:24:46.006963"
+    }
+  ],
+  "edges": []
+}

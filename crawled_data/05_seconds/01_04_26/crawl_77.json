@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 5,
+    "seed_video_id": "yr9qqyHR-Bc",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:46:44.059955",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "yr9qqyHR-Bc",
+      "url": "https://www.youtube.com/watch?v=yr9qqyHR-Bc",
+      "title": "O carro estragou, mas o problema maior foi quando a esposa chegou… #humor",
+      "description": null,
+      "transcript": "Pesquisar transcrição Eita potência. Que que você tomou hoje? Que tá assim, hein? Baguá mesmo. Bora, bora para dentro. Vem. Bora para dentro que agora você vai ver, meu filho. Vem. Que que você tá fazendo aí, amor? Céu tá vindo trabalhar. Esse carro não estraga, amor. Quem que tá lá fora, amor? mecânico, amor. Trouxemos o carro aqui para poder arrumar o carro, amor. Eu achei que era você, amor, que tava lá fora. Deus do céu, pensa do céu. Não consegui trabalhar, não consegui fazer nada. O cara já faz duas horas que tá mexendo no carro aí, amor. E o que que você tá fazendo aqui dentro? Você não tá com mecânico lá fora? Tô procurando isso aqui, ó, que ele precisa para calçar o negócio lá, ó. Olha que eu achei aqui, ó. Meu Deus do céu. Vai lá com homem. Fica com homem lá, amor. Por que que você tá fazendo aqui, amor?",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:44:48.166869"
+    },
+    {
+      "video_id": "EPFrnvKi0hg",
+      "url": "https://www.youtube.com/watch?v=EPFrnvKi0hg",
+      "title": "MELHORES MOMENTOS: FLUMINENSE 3 X 1 CORINTHIANS | 9ª RODADA DO BRASILEIRÃO",
+      "description": "Tem muito mais pra você curtir aqui no YouTube da CazéTV:\n\n✂️CORTES DA CAZÉTV: https://youtube.com/@cazetv-cortes?si...\n\n⭐UM DIA COM:    • UM DIA COM ⚽🎤  \n\n💡DESTRINCHA DONAN:    • DESTRINCHA DONAN  \n\n🏆RELEMBRE A COPA DE 2022:    • Melhores Momentos | Copa do Mundo 2022  \n\n😂DESAFIOS DO RODA DE BOBO:    • DESAFIOS DO RODA DE BOBO  \n\n⚽MELHORES MOMENTOS DO BRASILEIRÃO 2026:    • Melhores Momentos | Brasileirão 2026  \n\n⚽MELHORES MOMENTOS DA LIGUE 1 25/26:    • Melhores Momentos | Ligue 1 25/26  \n\n⚽MELHORES MOMENTOS DA BUNDESLIGA 25/26:    • Melhores Momentos | Bundesliga 25/26  \n\n⚽MELHORES MOMENTOS DA EUROPA LEAGUE 25/26:    • Melhores Momentos | Europa League 25/26  \n\n⚽MELHORES MOMENTOS SERIE A 25/26:    • Melhores Momentos | Serie A 2025/26  \n\n🃏MELHORES MOMENTOS DA KINGS LEAGUE:    • Melhores Momentos | Kings League Brasil  \n\n🎤ENTREVISTAS NA CAZÉTV:    • Entrevistas | CazéTV  \n\n🥇DESTINO OLÍMPICO:    • Destino Olímpico",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:45:08.682358"
+    }
+  ],
+  "edges": [
+    {
+      "source": "yr9qqyHR-Bc",
+      "target": "EPFrnvKi0hg",
+      "iteration": 1
+    }
+  ]
+}

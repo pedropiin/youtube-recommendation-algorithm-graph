@@ -1,0 +1,138 @@
+{
+  "num_nodes": 496,
+  "num_edges": 536,
+  "density": 0.0021831215379602476,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 27,
+  "num_strongly_connected_components": 369,
+  "avg_in_degree": 1.0806451612903225,
+  "avg_out_degree": 1.0806451612903225,
+  "max_in_degree": 16,
+  "max_out_degree": 10,
+  "top_in_degree": [
+    {
+      "video_id": "nHthikorJwk",
+      "in_degree": 16,
+      "title": "BRASIL X CROÁCIA: AO VIVO E COM IMAGENS! SELEÇÃO BRASILEIRA | ge tv"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "in_degree": 7,
+      "title": "FIZ UM QUARTO SECRETO NA MANSÃO DA MINHA MÃE!"
+    },
+    {
+      "video_id": "DW07br77DD8",
+      "in_degree": 4,
+      "title": "DE ARREPIAR! REPÚBLICA TCHECA ELIMINA DINAMARCA NOS PÊNALTIS E VOLTA À COPA APÓS 20 ANOS!"
+    },
+    {
+      "video_id": "tcHN6OFS_Y4",
+      "in_degree": 4,
+      "title": "Felipe Rodrigues - 1 Hora de Adoração 3"
+    },
+    {
+      "video_id": "JniH3vydr0A",
+      "in_degree": 3,
+      "title": "VLOG DA MUDANÇA: LIMPEZA, CAIXAS, BAGUNÇA E NOSSA CASA NOVA | PARTE 1"
+    },
+    {
+      "video_id": "TZecXtx4uNY",
+      "in_degree": 3,
+      "title": "Pablo - A casa ao lado ( Pablo 20 Anos)"
+    },
+    {
+      "video_id": "9jYeyfzGN7E",
+      "in_degree": 3,
+      "title": "CPMI do INSS: \"É tudo cortina de fumaça!\", diz relator Alfredo Gaspar sobre acusações - 31/3/26"
+    },
+    {
+      "video_id": "NS2Q1qJn9x8",
+      "in_degree": 3,
+      "title": "🤣👌👌👌2026 pov Must-Watch Crazy Clips Compilation #humor #fypシ #pov #fyp #foryou #funny 😍😜"
+    },
+    {
+      "video_id": "_R2FyuuQEF0",
+      "in_degree": 3,
+      "title": "SOU o CRUSH da FILHA DO PRESIDENTE no Minecraft"
+    },
+    {
+      "video_id": "qPqU_cQF07Y",
+      "in_degree": 2,
+      "title": "VOLTEI DEPOIS QUE MEU JOGO FOI DELETADO… (ADM ABUSE + BLOX FRUITS AO VIVO) 😳🔥"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "nHthikorJwk",
+      "out_degree": 10,
+      "title": "BRASIL X CROÁCIA: AO VIVO E COM IMAGENS! SELEÇÃO BRASILEIRA | ge tv"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "out_degree": 5,
+      "title": "FIZ UM QUARTO SECRETO NA MANSÃO DA MINHA MÃE!"
+    },
+    {
+      "video_id": "IVrI9NDg2Ew",
+      "out_degree": 3,
+      "title": "🛡️ Música Cristã para Dormir sob a Proteção de Deus 🌙 Louvores que ACALMA a Ansiedade e traz PAZ"
+    },
+    {
+      "video_id": "tcHN6OFS_Y4",
+      "out_degree": 3,
+      "title": "Felipe Rodrigues - 1 Hora de Adoração 3"
+    },
+    {
+      "video_id": "c4p8uJPfW2E",
+      "out_degree": 3,
+      "title": "O contra-ataque de Alfredo Gaspar a Lindbergh Farias e Gilmar Mendes"
+    },
+    {
+      "video_id": "LDEdsUSDVS0",
+      "out_degree": 3,
+      "title": "100 Louvores Para Expulsar Todo Mal Da Sua Vida, Top Músicas Gospel, Hinos Evangélicos,100 Louvores"
+    },
+    {
+      "video_id": "Sztx90VwJvA",
+      "out_degree": 3,
+      "title": "CRIEI uma FAMILIA com A FILHA DO PRESIDENTE no Minecraft"
+    },
+    {
+      "video_id": "qPqU_cQF07Y",
+      "out_degree": 2,
+      "title": "VOLTEI DEPOIS QUE MEU JOGO FOI DELETADO… (ADM ABUSE + BLOX FRUITS AO VIVO) 😳🔥"
+    },
+    {
+      "video_id": "-jiDtvF2EQw",
+      "out_degree": 2,
+      "title": "DECOLE AVIÕES PRA ROUBAR BRAINROT"
+    },
+    {
+      "video_id": "WBfIFah1TI0",
+      "out_degree": 2,
+      "title": "FINALMENTE EU CONSEGUI... Brawl Stars"
+    }
+  ],
+  "scc_sizes": [
+    20,
+    14,
+    10,
+    8,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    5,
+    5,
+    4,
+    4,
+    4,
+    4,
+    4,
+    3,
+    3,
+    3
+  ]
+}

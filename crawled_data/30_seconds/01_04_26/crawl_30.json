@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 30,
+    "seed_video_id": "lRjPsbdm5NQ",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:19:33.489310",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "lRjPsbdm5NQ",
+      "url": "https://www.youtube.com/watch?v=lRjPsbdm5NQ",
+      "title": "Undertale Plus LITE - Announcement Trailer",
+      "description": "Undertale Plus LITE, a version of Undertale Plus without Add-Ons is coming to PC very soon! Explore a brand new completely customizable version of Undertale!\n\nFor more information please check out our website: https://www.undertaleplus.com/\nYou can also check out our recent devlog we pushed out for more information: https://gamejolt.com/p/undertale-plus...\n\nThank you to 2 years of Undertale Plus!\n\nTrailer Credits:\nMusic Composer: garbyte\nThumbnail Art: Nelle Fox\nVideo Producers: CiblesGD, Zaywire\nCreative Directors: CiblesGD, LuigiUTMC\nMusic Directors: Gramwra, Maddiesmiles\nUndertale by Toby Fox. Undertale Soundtrack copyrighted by Materia Music.\n\nCheck out Undertale Plus - https://www.undertaleplus.com\n\nUndertale Plus is an unofficial mod for Undertale and is unassociated with Undertale, Toby Fox, Materia Music, Fangamer, or Royal Sciences LLC.",
+      "transcript": "Pesquisar transcrição Heat. Heat. Heat. Heat.",
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:17:14.630755"
+    },
+    {
+      "video_id": "A86OxLX9KWU",
+      "url": "https://www.youtube.com/watch?v=A86OxLX9KWU",
+      "title": "Undertale Plus - Reveal Trailer",
+      "description": "Undertale Plus, a mod for Undertale allowing you to have a completely customizable experience, will be coming to PC soon! Play with colored sprites, your friends, Deltarune battles, and more!\n\nCheck out our website: https://www.undertaleplus.com\n\nReveal Trailer showcased in UnderEvent 2024. Watch the full presentation here:    • UNDEREVENT 2024: Shadows Manifest | Undert...",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 30,
+      "timestamp": "2026-04-02T02:17:57.880071"
+    }
+  ],
+  "edges": [
+    {
+      "source": "lRjPsbdm5NQ",
+      "target": "A86OxLX9KWU",
+      "iteration": 1
+    }
+  ]
+}

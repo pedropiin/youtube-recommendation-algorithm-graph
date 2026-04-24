@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 30,
+    "seed_video_id": "W8Jq2yVthvg",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T22:44:29.598409",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "W8Jq2yVthvg",
+      "url": "https://www.youtube.com/watch?v=W8Jq2yVthvg",
+      "title": "Palmer VS Pedri VS Messi VS Ronaldo",
+      "description": "#football #footballshorts #soccer #ronaldo #messi #footballarena",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-03-31T22:42:54.293611"
+    }
+  ],
+  "edges": []
+}

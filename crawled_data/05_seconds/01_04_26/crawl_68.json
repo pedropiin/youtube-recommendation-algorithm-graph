@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 5,
+    "seed_video_id": "4W3UEcie0ds",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:33:34.695079",
+    "total_videos": 4,
+    "total_edges": 3
+  },
+  "videos": [
+    {
+      "video_id": "4W3UEcie0ds",
+      "url": "https://www.youtube.com/watch?v=4W3UEcie0ds",
+      "title": "EMOCIONANTE! GYOKERES FAZ NO FIM, COLOCA SUÉCIA NA COPA E ELIMINA POLÔNIA | MELHORES MOMENTOS",
+      "description": "A Suécia venceu a Polônia e está garantida na Copa do Mundo de 2026. E a vaga só foi possível após uma mudança no regulamento que salvou o time Viking depois de uma campanha desastrosa nas eliminatórias.\n\nSem nenhuma vitória em uma chave com Suíça, Kosovo e Eslovênia, a Suécia fez dois pontos e foi lanterna do grupo B, posição que, obviamente, não a classificaria à Copa do Mundo. Só que a liderança do grupo C da Nations League manteve a seleção viva.\n\nTodo o esporte AO VIVO da ESPN disponível no Disney+!\n\nhttp://dis.la/ESPNenDisneyPlus_YT_BR\n\nE o melhor do jornalismo esportivo, com vídeos e notícias exclusivas, você acompanha no https://www.espn.com.br/\n\n#melhoresmomentos #futebol #suecia #polonia #copadomundo #espn #esporte",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:32:32.746394"
+    },
+    {
+      "video_id": "DW07br77DD8",
+      "url": "https://www.youtube.com/watch?v=DW07br77DD8",
+      "title": "DE ARREPIAR! REPÚBLICA TCHECA ELIMINA DINAMARCA NOS PÊNALTIS E VOLTA À COPA APÓS 20 ANOS!",
+      "description": "Em uma partida emocionante, a República Tcheca se classificou para a Copa do Mundo de 2026 ao levar a melhor sobre a Dinamarca nos pênaltis, fazendo a festa dos torcedores presentes na epet ARENA, em Praga.\n\nNo tempo normal, empate por 1 a 1. Na prorrogação, cada seleção marcou um gol e a decisão foi para os pênaltis. Com um aproveitamento ruim, a Dinamarca errou três cobranças e perdeu por 3 a 1.\n\nTodo o esporte AO VIVO da ESPN disponível no Disney+!\n\nhttp://dis.la/ESPNenDisneyPlus_YT_BR\n\nE o melhor do jornalismo esportivo, com vídeos e notícias exclusivas, você acompanha no https://www.espn.com.br/\n\n#melhoresmomentos #copadomundo #eliminatorias #futebol #espn #esporte",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:32:50.186628"
+    },
+    {
+      "video_id": "VhiSGBkhxdY",
+      "url": "https://www.youtube.com/watch?v=VhiSGBkhxdY",
+      "title": "24 ANOS DEPOIS! TURQUIA BATE KOSOVO EM JOGO EMOCIONANTE E GARANTE VAGA NA COPA | MELHORES MOMENTOS",
+      "description": "A Turquia está de volta à Copa do Mundo. Após 24 anos, a seleção confirmou a classificação ao vencer Kosovo por 1 a 0, nesta terça-feira (31), no estádio Fadil Vokrri, pela repescagem europeia, e garantiu presença no Mundial.\n\nA Turquia agora integra o Grupo D, ao lado dos anfitriões Estados Unidos, além de Paraguai e Austrália. A última participação no torneio havia sido em 2002, quando a seleção surpreendeu ao terminar na terceira colocação.\n\nTodo o esporte AO VIVO da ESPN disponível no Disney+!\n\nhttp://dis.la/ESPNenDisneyPlus_YT_BR\n\nE o melhor do jornalismo esportivo, com vídeos e notícias exclusivas, você acompanha no https://www.espn.com.br/\n\n#Kosovo #Turquia #MelhoresMomentos #CopaDoMundo #FutebolNaESPN #Futebol #ESPN",
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:33:06.588521"
+    },
+    {
+      "video_id": "4W3UEcie0ds",
+      "url": "https://www.youtube.com/watch?v=4W3UEcie0ds",
+      "title": "24 ANOS DEPOIS! TURQUIA BATE KOSOVO EM JOGO EMOCIONANTE E GARANTE VAGA NA COPA | MELHORES MOMENTOS",
+      "description": "A Turquia está de volta à Copa do Mundo. Após 24 anos, a seleção confirmou a classificação ao vencer Kosovo por 1 a 0, nesta terça-feira (31), no estádio Fadil Vokrri, pela repescagem europeia, e garantiu presença no Mundial.\n\nA Turquia agora integra o Grupo D, ao lado dos anfitriões Estados Unidos, além de Paraguai e Austrália. A última participação no torneio havia sido em 2002, quando a seleção surpreendeu ao terminar na terceira colocação.\n\nTodo o esporte AO VIVO da ESPN disponível no Disney+!\n\nhttp://dis.la/ESPNenDisneyPlus_YT_BR\n\nE o melhor do jornalismo esportivo, com vídeos e notícias exclusivas, você acompanha no https://www.espn.com.br/\n\n#Kosovo #Turquia #MelhoresMomentos #CopaDoMundo #FutebolNaESPN #Futebol #ESPN",
+      "transcript": null,
+      "iteration": 4,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:33:20.266165"
+    }
+  ],
+  "edges": [
+    {
+      "source": "4W3UEcie0ds",
+      "target": "DW07br77DD8",
+      "iteration": 1
+    },
+    {
+      "source": "DW07br77DD8",
+      "target": "VhiSGBkhxdY",
+      "iteration": 2
+    },
+    {
+      "source": "VhiSGBkhxdY",
+      "target": "4W3UEcie0ds",
+      "iteration": 3
+    }
+  ]
+}

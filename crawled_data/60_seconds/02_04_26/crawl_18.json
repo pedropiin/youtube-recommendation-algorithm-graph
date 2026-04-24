@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 60,
+    "seed_video_id": "p0r3DkG07p0",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T06:36:06.340862",
+    "total_videos": 3,
+    "total_edges": 2
+  },
+  "videos": [
+    {
+      "video_id": "p0r3DkG07p0",
+      "url": "https://www.youtube.com/watch?v=p0r3DkG07p0",
+      "title": "1º de Abril dia da….",
+      "description": "Seja bem-vindo(a) ao meu universo! 🌟\n\nAqui a gente ri de tudo, principalmente da vida! Este canal é dedicado a histórias engraçadas, situações do dia a dia que viram comédia e muito bom humor.\n\nSe você também acredita que uma boa risada é a melhor terapia, você acabou de encontrar seu lugar! Vamos construir uma comunidade legal juntos, então sinta-se em casa, comente os vídeos e me conte suas histórias também!\n\nNão esqueça de: ✅ Se inscrever para não perder nenhuma aventura! ✅ Ativar o sininho 🔔 para ser o primeiro a ver os novos vídeos! ✅ Compartilhar com aquele amigo que também precisa dar uma risada.\n\nTamo junto e valeu pelo apoio! ❤️🫶\n\n#humor #comedia #historias #shorts #risada #diaadia",
+      "transcript": "Pesquisar transcrição Primeiro de abril, professora. É sim, Y. E hoje é o único dia que eu, como professora, posso contar uma mentirinha. Espera o Paulinho chegar, então, professora. Aí a senhora trolla ele. Boa. Gostei da sua ideia, Yudi. Foi mal pelo atraso aí, professora. Paulinho, eu tava mesmo esperando você chegar. Eu preciso te contar uma coisa. Aí a senhora me assusta. Eu também tenho uma coisa para te contar, professor. Ele tá achando mesmo que vai me trollar nesse primeiro de abril. E o que que é? Tive uma ideia. Vamos contar junto no três, tá? Um, dois, três. Você, infelizmente, não vai poder ir no passeio da escola, Paulinho, porque a sua nota foi muito baixa. Eu vi seu marido te traindo. [risadas] Primeiro de abril, seu bobo. 27 de março.",
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-03T06:32:04.032315"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "url": "https://www.youtube.com/watch?v=bfO7RvUl5Eg",
+      "title": "EU TENHO UM IRMÃO GÊMEO?",
+      "description": "Meu espetáculo: https://www.enaldinho.com.br\n\nO conteúdo deste e de todos os vídeos do canal tem como principal intuito o entretenimento. Não repita ou reproduza este conteúdo, seja em ambientes públicos ou privados. O conteúdo visa exclusivamente gerar entretenimento.\n\nCANAL DA ELO TEAM: https://www.youtube.com/results?searc...\n\nSeja membro deste canal e ganhe benefícios:\n   / @enaldinho  \n\nCOMPRE SEU LIVRÃO DO ZAP: http://bit.ly/livrosdoenaldinho\n\nMINHA LOJA:  http://lolja.com.br/enaldinho\n\nINSTA: @Enaldinho ou www.instagram.com/enaldinho/\n\n★ Siga nas redes sociais:\n\nTwitter:   / enaldinho1  \n\nFace:   / enaldo.lopes.1  \n\nSegundo canal: https://goo.gl/oA3ErZ  \n\n★ REDES SOCIAIS INTEGRANTES ELO:\n\nJESSI:    / @soujessi   \n\nGUILHERME\nYoutube:    / @guicavalieri2287  \n\nBIEL\nYoutube:    / zvisiongamer  \n\nBRENNER\nYoutube:    / @brennermariano  \n\nVINI\nYoutube:\n   / @eovinioficial  \n\nNICOLAS\nYoutube:\n   / @nicolasgomes  \n\nMORGANA\nYoutube:\n   / @morganavamp3  \n\nEDIÇÃO, REVISÃO E POSTAGEM: Marcelinho Fernandes\n\nInstagram: @Marcelinho_fe\n\n\nTHUMBNAILS: Hald Design\n@hald.design_",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-03T06:33:18.439678"
+    },
+    {
+      "video_id": "VlfhtTETsvU",
+      "url": "https://www.youtube.com/watch?v=VlfhtTETsvU",
+      "title": "FINGI MINHA MORTE PARA ASSUSTAR MINHA FAMÍLIA em BROOKHAVEN",
+      "description": null,
+      "transcript": null,
+      "iteration": 3,
+      "watch_time": 60,
+      "timestamp": "2026-04-03T06:34:29.795687"
+    }
+  ],
+  "edges": [
+    {
+      "source": "p0r3DkG07p0",
+      "target": "bfO7RvUl5Eg",
+      "iteration": 1
+    },
+    {
+      "source": "bfO7RvUl5Eg",
+      "target": "VlfhtTETsvU",
+      "iteration": 2
+    }
+  ]
+}

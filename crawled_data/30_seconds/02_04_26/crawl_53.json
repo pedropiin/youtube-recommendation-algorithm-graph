@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 30,
+    "seed_video_id": "57yrPCtb1Zo",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T08:56:06.059172",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "57yrPCtb1Zo",
+      "url": "https://www.youtube.com/watch?v=57yrPCtb1Zo",
+      "title": "e tem piores kkkkk #shorts",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 30,
+      "timestamp": "2026-04-03T08:54:30.706040"
+    }
+  ],
+  "edges": []
+}

@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 5,
+    "seed_video_id": "09oz4sg-3mE",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T03:34:12.159137",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "09oz4sg-3mE",
+      "url": "https://www.youtube.com/watch?v=09oz4sg-3mE",
+      "title": "COMO FOI BRASIL VS CROÁCIA!",
+      "description": null,
+      "transcript": "Pesquisar transcrição Aí, crossa, finalmente chegou a hora da minha vingança. Ah, mas que isso? Tá todo mundo tranquilo, né? Só amistoso. Rapaz, e aí, Luís Henrique? Preparou pro jogo ontem? Ah, sim. Já sei o jeito de eu jogar bem na seleção. Agora sim. [música] Madre mia, sai da minha frente. Tá, vai começar já. Esse goleiro tá de sacanagem. Relaxa que hoje a gente faz gol nele. [música] Não vou pegar esse cara, cara. Cara, só me qu ano e volto catando tudo. Vamos Brasil. É agora. [música] A alegria de vocês vai durar pouco, Brasil. As suas também. [música] Eu queria bater, mas eu sei o momento de fazer o gol. Valeu. Me deram pouco tempo, mas eu posso provar que eu mereço pa. [música]",
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T03:32:19.803949"
+    },
+    {
+      "video_id": "m5Goxge_QWk",
+      "url": "https://www.youtube.com/watch?v=m5Goxge_QWk",
+      "title": "GÊNIO! OLHA O QUE NETO E FELIPE MELO FALARAM DO NEYMAR APÓS VITÓRIA DO SANTOS!",
+      "description": null,
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-03T03:32:35.856582"
+    }
+  ],
+  "edges": [
+    {
+      "source": "09oz4sg-3mE",
+      "target": "m5Goxge_QWk",
+      "iteration": 1
+    }
+  ]
+}

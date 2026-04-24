@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 5,
+    "seed_video_id": "c82zv_5GfV8",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T02:25:59.548170",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "c82zv_5GfV8",
+      "url": "https://www.youtube.com/watch?v=c82zv_5GfV8",
+      "title": "A CÚPULA - Hariel, Kadu, Don Juan, Tuto, Kako, Joãzinho VT, Marks, Perera DJ, DJ Boy e DJ GBR",
+      "description": "Ouça em todas as plataformas digitais:\n\nFicha técnica\nArtista:  , MC Kadu, MC Hariel, Mc Don Juan, MC Tuto, Kako, Joãzinho VT, MC Marks, DJ Boy e DJ GBR\nMúsica: A Cúpula\nProdução Musical: Perera DJ, DJ Boy e DJ GBR\n\nProduzido por GR6 Filmes\n\nEste videofonograma é um produto original e próprio da Gravadora e Editora. A cópia dele ou o reenvio do mesmo resultará em grandes implicações ao seu canal do youtube ou até a exclusão do mesmo.\n\nGR6 EXPLODE ®\n\n#GR6EXPLODE #Gr6Filmes \n\nAno 2026",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:25:42.337622"
+    },
+    {
+      "video_id": "zG5gWncAhls",
+      "url": "https://www.youtube.com/watch?v=zG5gWncAhls",
+      "title": "A CÚPULA - Hariel, Kadu, Don Juan, Tuto, Kako, Joãzinho VT, Marks, Perera DJ, DJ Boy e DJ GBR",
+      "description": "Ouça em todas as plataformas digitais:\n\nFicha técnica\nArtista:  , MC Kadu, MC Hariel, Mc Don Juan, MC Tuto, Kako, Joãzinho VT, MC Marks, DJ Boy e DJ GBR\nMúsica: A Cúpula\nProdução Musical: Perera DJ, DJ Boy e DJ GBR\n\nProduzido por GR6 Filmes\n\nEste videofonograma é um produto original e próprio da Gravadora e Editora. A cópia dele ou o reenvio do mesmo resultará em grandes implicações ao seu canal do youtube ou até a exclusão do mesmo.\n\nGR6 EXPLODE ®\n\n#GR6EXPLODE #Gr6Filmes \n\nAno 2026",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-04-02T02:25:57.280783"
+    }
+  ],
+  "edges": [
+    {
+      "source": "c82zv_5GfV8",
+      "target": "zG5gWncAhls",
+      "iteration": 1
+    }
+  ]
+}

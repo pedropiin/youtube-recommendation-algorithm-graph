@@ -1,0 +1,138 @@
+{
+  "num_nodes": 974,
+  "num_edges": 1048,
+  "density": 0.001105832846190047,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 51,
+  "num_strongly_connected_components": 766,
+  "avg_in_degree": 1.0759753593429158,
+  "avg_out_degree": 1.0759753593429158,
+  "max_in_degree": 14,
+  "max_out_degree": 9,
+  "top_in_degree": [
+    {
+      "video_id": "nHthikorJwk",
+      "in_degree": 14,
+      "title": "BRASIL X CROÁCIA: AO VIVO E COM IMAGENS! SELEÇÃO BRASILEIRA | ge tv"
+    },
+    {
+      "video_id": "9jYeyfzGN7E",
+      "in_degree": 8,
+      "title": "CPMI do INSS: \"É tudo cortina de fumaça!\", diz relator Alfredo Gaspar sobre acusações - 31/3/26"
+    },
+    {
+      "video_id": "uTNbUzHPKBk",
+      "in_degree": 7,
+      "title": "Alfredo Gaspar rebate acusações e defende prisões de Lindbergh e Soraya Thronicke"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "in_degree": 6,
+      "title": "MOREI SECRETAMENTE NO QUARTO DA MINHA MÃE..."
+    },
+    {
+      "video_id": "c4p8uJPfW2E",
+      "in_degree": 5,
+      "title": "O contra-ataque de Alfredo Gaspar a Lindbergh Farias e Gilmar Mendes"
+    },
+    {
+      "video_id": "e3YZBM_hshM",
+      "in_degree": 4,
+      "title": "60 GRANDES FILMES QUE VÃO SER LANÇADOS ATÉ O FIM DE 2027 (Lista Completa)"
+    },
+    {
+      "video_id": "up022XY_LyQ",
+      "in_degree": 4,
+      "title": "Civilização dos NÚMEROS INFINITOS!"
+    },
+    {
+      "video_id": "cNcCveYlGxE",
+      "in_degree": 4,
+      "title": "Vai faltar combustível no mundo e o mercado não está nem aí?"
+    },
+    {
+      "video_id": "E2aupNqxYSM",
+      "in_degree": 3,
+      "title": "GOLEADA HISTÓRICA DA SELEÇÃO BRASILEIRA QUE ENCANTOU O MUNDO E HUMILHOU A ARGENTINA NA FINAL DE 2OO5"
+    },
+    {
+      "video_id": "DW07br77DD8",
+      "in_degree": 3,
+      "title": "DE ARREPIAR! REPÚBLICA TCHECA ELIMINA DINAMARCA NOS PÊNALTIS E VOLTA À COPA APÓS 20 ANOS!"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "nHthikorJwk",
+      "out_degree": 9,
+      "title": "BRASIL X CROÁCIA: AO VIVO E COM IMAGENS! SELEÇÃO BRASILEIRA | ge tv"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "out_degree": 4,
+      "title": "MOREI SECRETAMENTE NO QUARTO DA MINHA MÃE..."
+    },
+    {
+      "video_id": "9jYeyfzGN7E",
+      "out_degree": 4,
+      "title": "CPMI do INSS: \"É tudo cortina de fumaça!\", diz relator Alfredo Gaspar sobre acusações - 31/3/26"
+    },
+    {
+      "video_id": "uTNbUzHPKBk",
+      "out_degree": 4,
+      "title": "Alfredo Gaspar rebate acusações e defende prisões de Lindbergh e Soraya Thronicke"
+    },
+    {
+      "video_id": "qWPp-WAQsZA",
+      "out_degree": 4,
+      "title": "CONTANDO MINHA HISTÓRIA - Giuliana Mafra - Draw my life"
+    },
+    {
+      "video_id": "ImudoaMM61U",
+      "out_degree": 3,
+      "title": "A TRAJETÓRIA DO PENTA ! TODOS OS JOGOS DO BRASIL NA COPA DO MUNDO 2OO2"
+    },
+    {
+      "video_id": "psdaFyu_4rc",
+      "out_degree": 3,
+      "title": "O NÍCOLAS BEIJOU A VALENTONA!"
+    },
+    {
+      "video_id": "JniH3vydr0A",
+      "out_degree": 3,
+      "title": "VLOG DA MUDANÇA: LIMPEZA, CAIXAS, BAGUNÇA E NOSSA CASA NOVA | PARTE 1"
+    },
+    {
+      "video_id": "e3YZBM_hshM",
+      "out_degree": 3,
+      "title": "60 GRANDES FILMES QUE VÃO SER LANÇADOS ATÉ O FIM DE 2027 (Lista Completa)"
+    },
+    {
+      "video_id": "oTT73Vtk5SY",
+      "out_degree": 3,
+      "title": "(FORMATO INÉDITO) JOTAPÊ E NEGROTE (+TUBARÃO) X APOLLO E BTC (+LEVINSK) | GRANDE FINAL | BDA 446"
+    }
+  ],
+  "scc_sizes": [
+    22,
+    15,
+    10,
+    9,
+    9,
+    9,
+    9,
+    8,
+    6,
+    6,
+    6,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    5,
+    4,
+    4
+  ]
+}

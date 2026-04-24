@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 60,
+    "seed_video_id": "tIEDNMXmbGk",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T21:42:01.160549",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "tIEDNMXmbGk",
+      "url": "https://www.youtube.com/watch?v=tIEDNMXmbGk",
+      "title": "JULGANDO as TEORIAS MAIS MALUCAS de HOMEM-ARANHA UM NOVO DIA",
+      "description": "Vamos discutir o trailer de Homem-Aranha Um novo Dia.\n\nENTRE NO GRUPO VIP de PROMOÇÕES da BATCAVERNA\nTelegram: https://t.me/batcavernaHQs\nWhatsapp: https://chat.whatsapp.com/Ew6JmDEPZvd...",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-03-31T21:40:22.831238"
+    }
+  ],
+  "edges": []
+}

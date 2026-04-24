@@ -1,0 +1,138 @@
+{
+  "num_nodes": 1059,
+  "num_edges": 1200,
+  "density": 0.0010710250244996974,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 50,
+  "num_strongly_connected_components": 723,
+  "avg_in_degree": 1.13314447592068,
+  "avg_out_degree": 1.13314447592068,
+  "max_in_degree": 11,
+  "max_out_degree": 9,
+  "top_in_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "in_degree": 11,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "yobWPbnNk6I",
+      "in_degree": 6,
+      "title": "CRUZEIRO 3 X 0 VITÓRIA | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "in_degree": 6,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "C1OP9QTB7kE",
+      "in_degree": 6,
+      "title": "Direto da Casa Branca, Trump se pronuncia oficialmente sobre guerra no Oriente Médio | WW"
+    },
+    {
+      "video_id": "n2TgdGUquDM",
+      "in_degree": 5,
+      "title": "BAHIA 3 X 0 ATHLETICO-PR | MELHORES MOMENTOS | 9ª RODADA BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "4oHgiChjmvU",
+      "in_degree": 5,
+      "title": "PRENDEMOS A EMILLY NA MANSÃO DOS ROSA *Ela expulsou todos dos Rosa !"
+    },
+    {
+      "video_id": "FelUcHdbOi4",
+      "in_degree": 5,
+      "title": "[AO VIVO] JORNAL DA BAND - 01/04/2026"
+    },
+    {
+      "video_id": "MAGieHpQSQs",
+      "in_degree": 5,
+      "title": "WW - TRUMP TESTA LIMITES DA PACIÊNCIA MUNDIAL - 01/04/2026"
+    },
+    {
+      "video_id": "_QUuB_8OW5c",
+      "in_degree": 5,
+      "title": "JN: Documentos indicam que Alexandre de Moraes e a mulher usaram aviões de empresa de Vorcaro"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "in_degree": 5,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "out_degree": 9,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "out_degree": 6,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "UWwmp5Q4DKU",
+      "out_degree": 5,
+      "title": "Análise: Trump tenta convencer população americana com discurso cheio de justificativas | WW"
+    },
+    {
+      "video_id": "_QUuB_8OW5c",
+      "out_degree": 5,
+      "title": "JN: Documentos indicam que Alexandre de Moraes e a mulher usaram aviões de empresa de Vorcaro"
+    },
+    {
+      "video_id": "G3zuEBVvRZ4",
+      "out_degree": 5,
+      "title": "Moraes e Gilmar são confrontados por Vieira e Contarato em CPI"
+    },
+    {
+      "video_id": "yobWPbnNk6I",
+      "out_degree": 4,
+      "title": "CRUZEIRO 3 X 0 VITÓRIA | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "n2TgdGUquDM",
+      "out_degree": 4,
+      "title": "BAHIA 3 X 0 ATHLETICO-PR | MELHORES MOMENTOS | 9ª RODADA BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "FelUcHdbOi4",
+      "out_degree": 4,
+      "title": "[AO VIVO] JORNAL DA BAND - 01/04/2026"
+    },
+    {
+      "video_id": "LR1DD1UpYBQ",
+      "out_degree": 4,
+      "title": "As Mais Tocadas 2026, Hinos Evangélicos Mais Tocados, Melhores Louvores De Todos Os Tempos, Adoração"
+    },
+    {
+      "video_id": "TXpqBe4k85s",
+      "out_degree": 4,
+      "title": "Assista à íntegra do Jornal da Record | 01/04/2026"
+    }
+  ],
+  "scc_sizes": [
+    51,
+    39,
+    20,
+    12,
+    11,
+    9,
+    8,
+    8,
+    8,
+    8,
+    7,
+    7,
+    7,
+    6,
+    6,
+    6,
+    6,
+    6,
+    5,
+    5
+  ]
+}

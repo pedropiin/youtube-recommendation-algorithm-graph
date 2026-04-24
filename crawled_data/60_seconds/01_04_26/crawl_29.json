@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 60,
+    "seed_video_id": "I-cseAS1t5I",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T03:12:06.791334",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "I-cseAS1t5I",
+      "url": "https://www.youtube.com/watch?v=I-cseAS1t5I",
+      "title": "Quantos TOQUES da montanha",
+      "description": null,
+      "transcript": "Pesquisar transcrição Um toque. Vamos lá pros dois. Ah, não. Alá, não inventa, cara. Ô, você quer fazer daqui? Você não consegue fazer nem Ah, não. Gente, eu pago 1000 no Pixadson. Pago 1 no Pix. Pago 1 no Pix. Pago 1 no Pix. Meu Deus, ele voltou. Pai. Quantos caladin fez? Dois toques. Novo Neymar. Nem tenta que você é ruim. Nem tenta. Se ele faz com dois, eu faço com um. Ah, não. Vai desafiar quê? Ah, não. Ah, não. Meu Deus. Quase, seu invejoso. Se ele fez com duas, eu faço com uma. Quer apostar? Quero ver no Pix. Quero ver. Vai. Eu quero ver. Eu quero ver. Você tem que honrar. Tem que honrar lá. Ó, ó. É o arco lá. Você tem que honrar. Você tem que honrar. Ó, ó, ó, ó, ó, ó. O quê? Um toque. Nossa cara, você atrapalha o jogo. Tr toqu. Qu toqu c gente do céu. 20 toques. F. Por que você não fez isso aí de lá? Porque aqui é mais fácil. Oito toqu. Nove toqu. Nossa, filho.",
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T03:09:18.877023"
+    },
+    {
+      "video_id": "EPFrnvKi0hg",
+      "url": "https://www.youtube.com/watch?v=EPFrnvKi0hg",
+      "title": "MELHORES MOMENTOS: FLUMINENSE 3 X 1 CORINTHIANS | 9ª RODADA DO BRASILEIRÃO",
+      "description": "Tem muito mais pra você curtir aqui no YouTube da CazéTV:\n\n✂️CORTES DA CAZÉTV: https://youtube.com/@cazetv-cortes?si...\n\n⭐UM DIA COM:    • UM DIA COM ⚽🎤  \n\n💡DESTRINCHA DONAN:    • DESTRINCHA DONAN  \n\n🏆RELEMBRE A COPA DE 2022:    • Melhores Momentos | Copa do Mundo 2022  \n\n😂DESAFIOS DO RODA DE BOBO:    • DESAFIOS DO RODA DE BOBO  \n\n⚽MELHORES MOMENTOS DO BRASILEIRÃO 2026:    • Melhores Momentos | Brasileirão 2026  \n\n⚽MELHORES MOMENTOS DA LIGUE 1 25/26:    • Melhores Momentos | Ligue 1 25/26  \n\n⚽MELHORES MOMENTOS DA BUNDESLIGA 25/26:    • Melhores Momentos | Bundesliga 25/26  \n\n⚽MELHORES MOMENTOS DA EUROPA LEAGUE 25/26:    • Melhores Momentos | Europa League 25/26  \n\n⚽MELHORES MOMENTOS SERIE A 25/26:    • Melhores Momentos | Serie A 2025/26  \n\n🃏MELHORES MOMENTOS DA KINGS LEAGUE:    • Melhores Momentos | Kings League Brasil  \n\n🎤ENTREVISTAS NA CAZÉTV:    • Entrevistas | CazéTV  \n\n🥇DESTINO OLÍMPICO:    • Destino Olímpico",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T03:10:31.359817"
+    }
+  ],
+  "edges": [
+    {
+      "source": "I-cseAS1t5I",
+      "target": "EPFrnvKi0hg",
+      "iteration": 1
+    }
+  ]
+}

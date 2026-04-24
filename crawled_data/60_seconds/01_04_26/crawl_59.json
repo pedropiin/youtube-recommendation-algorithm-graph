@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 30,
+    "watch_time_seconds": 60,
+    "seed_video_id": "MeXpbYTw8vY",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-02T06:59:35.059886",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "MeXpbYTw8vY",
+      "url": "https://www.youtube.com/watch?v=MeXpbYTw8vY",
+      "title": "UM44K Acústico 2 - Saudade Feat. Sarah",
+      "description": "Intérpretes: Luan, Saulo e Sarah \nCompositores: Luan Lourenço Neto, Wallace Alexandre dos Santos Cruz, Wallace Vianna HITMAKER, Andre Luiz de Souza Vieira, Pedro Breder.\nArranjos: Thalles Emanuel de Melo Moura\nEngenheiros de gravação: Matheus Neves, Matheus Matta \nMixagem e Masterização: Gabriel Salles Ferreira Alvares, Gabriel Anunciação Lucchini.\n\nProdução Executiva: 44 Studio\nA&R/Produtor Geral: Diego Castro\nAssistente de produção: Eliseu Santos \n\nEquipe Recstar\nProdutora Audiovisual: Recstar Filmes \nDireção: Teo Durso \nAssist de Direção: Pietra Antonelli\nProdução Executiva Audiovisual: João Estrela⁠\nStill: Gabriel Heath\nEdição e Color Grading: Teo Durso\n\nEquipe WM\nGravadora: Warner Music Brasil\nDireção de A&R: Marcos Kilzer \nDireção Creative Services: Thiago Abreu \nGerente de Marketing : Victória Marques\nGerente de A&R: Barbara Rodrigues\nCoordenador de Artist Services: Jeronimo Da Silva\nContent Creator: Maria Clara Neder\n\nEquipe Sarah:\nAssessor: Bruno Henrique da Silva Primo \nAssessora: Andressa Caldas Mourão\nMaquiagem: Marina Terra\n\n#um44k #acustico",
+      "transcript": "Pesquisar transcrição [música] Tô aqui, eu sei que vai [canto] lembrar de [música] mim. Te ferei, magoei, mas não te iludi. [música] Nem vou te enganar. [música] Você já não dorme bem. Se você quer saber, ele tá mal também [canto][música] sofrendo por você. E quanto tempo isso vai durar? [canto][música] Já tá na hora de lutar. Eu sou [música][canto] a saudade vim dizer. A vida é tão [canto][música] curta para ficar de orgulho mágoa. Pode [canto] parar. Ainda [música] dá para recuperar. [canto] Eu sou saudade vim dizer [música] que você merece ser feliz. Pode [canto] parar, corre para lá. [música] Você é tudo que dia ele [canto] quis. Tô aqui. Eu sei que vai lembrar de mim. Te feria [música] mal te il nem vou te [canto] enganar. [música] Você já não dorme bem. [canto] Se você quer saber, ele tá [música] mal também. Sofrendo por você. Quanto [música] tempo [canto] isso vai durar? Já tô na hora de voltar. Eu sou assalta. Vim [música] dizer, a vida é tão curta para ficar [canto] de orgulho e mágua pode parar. Ainda dá para recuperar. [canto][música] Só saudade vem dizer, você merece ser feliz. [música] Pode parar, corre para lá. Você é tudo que um dia [canto] ele quis. Ninguém vai te fazer o bem que ele te faz, [canto] esperando [música] que alguém já te olhou do jeito que ele [canto] olha para você, [música] nem [canto] precisa responder. Sua saudade [canto][música] vim dizer a vida é tão curta para [canto][música] ficar de orgulho e mágoa pode parar ainda dá [canto] para recuperar. Eu sou a [música] saudade de você que você merece [canto] ser feliz. Pode parar, corre para lá. [música] Você é tudo que [canto] um dia ele quis.",
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T06:56:49.335116"
+    },
+    {
+      "video_id": "EsEpIh0gOoE",
+      "url": "https://www.youtube.com/watch?v=EsEpIh0gOoE",
+      "title": "As Mais Tocadas No Pagode Atualizado 2026 - ludmilla, Ferrugem, Menos é Mais, Dilsinho",
+      "description": "Confira As Mais Tocadas do Pagode Atualizado 2026 com grandes sucessos de Ludmilla, Ferrugem, Menos é Mais e Dilsinho. 🔥\n\n🎧 Uma seleção especial com os hits de pagode que estão bombando em 2026.\n👍 Curta, compartilhe e inscreva-se no canal para mais playlists atualizadas!",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 60,
+      "timestamp": "2026-04-02T06:57:59.772557"
+    }
+  ],
+  "edges": [
+    {
+      "source": "MeXpbYTw8vY",
+      "target": "EsEpIh0gOoE",
+      "iteration": 1
+    }
+  ]
+}

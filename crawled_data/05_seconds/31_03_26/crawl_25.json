@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "n_iterations": 20,
+    "watch_time_seconds": 5,
+    "seed_video_id": "Qv4Nrv4T0Xw",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-03-31T20:43:06.426463",
+    "total_videos": 2,
+    "total_edges": 1
+  },
+  "videos": [
+    {
+      "video_id": "Qv4Nrv4T0Xw",
+      "url": "https://www.youtube.com/watch?v=Qv4Nrv4T0Xw",
+      "title": "Usando COMANDOS DE ADMIN em um 1 BLOCO RAINBOW OP!",
+      "description": "Acompanhe as aventuras da Família Creeper com Xey no Minecraft.\n\nCompre já os Produtos Família Creeper: http://boxsugar.com.br/al3xey",
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T20:41:07.518128"
+    },
+    {
+      "video_id": "xlcQizUVLmM",
+      "url": "https://www.youtube.com/watch?v=xlcQizUVLmM",
+      "title": "A CADA 1 Clique eu ganho +1 de CALOR no Roblox",
+      "description": "Acompanhe as aventuras do Xey com Família Creeper no Roblox.\n\n💥Grupo da Familia Creeper no Roblox: https://www.roblox.com/pt/communities...",
+      "transcript": null,
+      "iteration": 2,
+      "watch_time": 5,
+      "timestamp": "2026-03-31T20:41:30.676272"
+    }
+  ],
+  "edges": [
+    {
+      "source": "Qv4Nrv4T0Xw",
+      "target": "xlcQizUVLmM",
+      "iteration": 1
+    }
+  ]
+}

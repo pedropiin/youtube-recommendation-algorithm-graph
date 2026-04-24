@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "n_iterations": 40,
+    "watch_time_seconds": 60,
+    "seed_video_id": "zD7Hz9IvLsE",
+    "seed_source": "youtube_data_api_trending_br_multicategory",
+    "navigation_method": "click",
+    "crawl_date": "2026-04-03T09:42:38.872874",
+    "total_videos": 1,
+    "total_edges": 0
+  },
+  "videos": [
+    {
+      "video_id": "zD7Hz9IvLsE",
+      "url": "https://www.youtube.com/watch?v=zD7Hz9IvLsE",
+      "title": "PLS help us reach 2M subscribers!🥰❤️#zoey #dance #funny #couple",
+      "description": null,
+      "transcript": null,
+      "iteration": 1,
+      "watch_time": 60,
+      "timestamp": "2026-04-03T09:41:03.529185"
+    }
+  ],
+  "edges": []
+}

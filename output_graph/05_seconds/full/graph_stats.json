@@ -1,0 +1,138 @@
+{
+  "num_nodes": 4237,
+  "num_edges": 5146,
+  "density": 0.00028671826926912803,
+  "is_weakly_connected": false,
+  "num_weakly_connected_components": 64,
+  "num_strongly_connected_components": 2672,
+  "avg_in_degree": 1.2145385886240265,
+  "avg_out_degree": 1.2145385886240265,
+  "max_in_degree": 16,
+  "max_out_degree": 12,
+  "top_in_degree": [
+    {
+      "video_id": "nHthikorJwk",
+      "in_degree": 16,
+      "title": "JOGO COMPLETO: BRASIL X CROÁCIA | AMISTOSO DA SELEÇÃO | ge tv"
+    },
+    {
+      "video_id": "h5G361Ft3sU",
+      "in_degree": 16,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "mUVjTDCYJg4",
+      "in_degree": 12,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "M7kf-GupIdY",
+      "in_degree": 11,
+      "title": "O GOLPE DO BANCO MASTER - DOCUMENTÁRIO ORIGINAL ICL"
+    },
+    {
+      "video_id": "e3YZBM_hshM",
+      "in_degree": 9,
+      "title": "60 GRANDES FILMES QUE VÃO SER LANÇADOS ATÉ O FIM DE 2027 (Lista Completa)"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "in_degree": 8,
+      "title": "EU TENHO UM IRMÃO GÊMEO?"
+    },
+    {
+      "video_id": "9jYeyfzGN7E",
+      "in_degree": 8,
+      "title": "CPMI do INSS: \"É tudo cortina de fumaça!\", diz relator Alfredo Gaspar sobre acusações - 31/3/26"
+    },
+    {
+      "video_id": "LR1DD1UpYBQ",
+      "in_degree": 8,
+      "title": "As Mais Tocadas 2026, Hinos Evangélicos Mais Tocados, Melhores Louvores De Todos Os Tempos, Adoração"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "in_degree": 8,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "NXO1arrpwZ8",
+      "in_degree": 8,
+      "title": "FUI ENGANADO POR UMA GUERREIRA K-POP GRÁVIDA"
+    }
+  ],
+  "top_out_degree": [
+    {
+      "video_id": "h5G361Ft3sU",
+      "out_degree": 12,
+      "title": "A surpreendente estratégia de guerra do Irã - Robinson Farinazzo - Programa 20 Minutos"
+    },
+    {
+      "video_id": "nHthikorJwk",
+      "out_degree": 11,
+      "title": "JOGO COMPLETO: BRASIL X CROÁCIA | AMISTOSO DA SELEÇÃO | ge tv"
+    },
+    {
+      "video_id": "hRQyRl8wi0M",
+      "out_degree": 8,
+      "title": "Descobertas antigas que podem mudar a história| INEXPLICÁVEL COM WILLIAM SHATNER | EPISÓDIO COMPLETO"
+    },
+    {
+      "video_id": "LR1DD1UpYBQ",
+      "out_degree": 8,
+      "title": "As Mais Tocadas 2026, Hinos Evangélicos Mais Tocados, Melhores Louvores De Todos Os Tempos, Adoração"
+    },
+    {
+      "video_id": "RfnHq4nnt6s",
+      "out_degree": 8,
+      "title": "PALMEIRAS 2 X 1 GRÊMIO | MELHORES MOMENTOS COM JORGE IGGOR | 9ª RODADA BRASILEIRÃO 2026 | ge tv"
+    },
+    {
+      "video_id": "e3YZBM_hshM",
+      "out_degree": 7,
+      "title": "60 GRANDES FILMES QUE VÃO SER LANÇADOS ATÉ O FIM DE 2027 (Lista Completa)"
+    },
+    {
+      "video_id": "hdKtloqPBvw",
+      "out_degree": 7,
+      "title": "BOTAFOGO 3 X 2 MIRASSOL | MELHORES MOMENTOS | 9ª RODADA | BRASILEIRÃO 2026 | ge.globo"
+    },
+    {
+      "video_id": "mUVjTDCYJg4",
+      "out_degree": 7,
+      "title": "\"Netanyahu enganou o Trump\" | Robinson Farinazzo no Juca Kfouri Entrevista"
+    },
+    {
+      "video_id": "bfO7RvUl5Eg",
+      "out_degree": 6,
+      "title": "EU TENHO UM IRMÃO GÊMEO?"
+    },
+    {
+      "video_id": "v14PWOI2MTc",
+      "out_degree": 6,
+      "title": "NÃO SEJA ENTERRADO PELO CHOCOLATE!"
+    }
+  ],
+  "scc_sizes": [
+    422,
+    158,
+    55,
+    27,
+    27,
+    21,
+    21,
+    21,
+    14,
+    14,
+    13,
+    13,
+    13,
+    11,
+    11,
+    11,
+    11,
+    11,
+    10,
+    10
+  ]
+}
