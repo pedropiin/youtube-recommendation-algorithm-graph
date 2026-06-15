@@ -21,6 +21,7 @@ import glob
 import json
 import os
 import time
+from pathlib import Path
 
 from openai import OpenAI
 from tqdm import tqdm
@@ -33,8 +34,9 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 MODEL = "gpt-5.4-nano"
 
-CRAWL_DATA_DIR = "./crawled_data"
-OUTPUT_PATH    = "./classifications_openai.jsonl"
+_ROOT = Path(__file__).parent.parent
+CRAWL_DATA_DIR = str(_ROOT / "crawled_data")
+OUTPUT_PATH    = str(_ROOT / "classifications_openai.jsonl")
 
 # Text fed to the model per video
 DESCRIPTION_CHARS = 300

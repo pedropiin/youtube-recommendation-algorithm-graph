@@ -21,6 +21,7 @@ import glob
 import json
 import os
 import time
+from pathlib import Path
 
 import google.generativeai as genai
 from tqdm import tqdm
@@ -32,8 +33,9 @@ load_dotenv()
 
 GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
-CRAWL_DATA_DIR = "./crawled_data"
-OUTPUT_PATH = "./classifications_gemini.jsonl"
+_ROOT = Path(__file__).parent.parent
+CRAWL_DATA_DIR = str(_ROOT / "crawled_data")
+OUTPUT_PATH    = str(_ROOT / "classifications_gemini.jsonl")
 
 # Gemini 2.5 Flash free tier: 10 RPM → 6s minimum between requests.
 # 8,400 videos × 6.5s ≈ 15 hours. Leave overnight.

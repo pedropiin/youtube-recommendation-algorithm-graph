@@ -23,7 +23,7 @@ def resolve_api_key(cli_key: str | None) -> str | None:
     import os
     key = cli_key or os.environ.get("YOUTUBE_API_KEY")
     if not key:
-        env_path = Path(__file__).parent / ".env"
+        env_path = Path(__file__).parent.parent / ".env"
         if env_path.exists():
             for line in env_path.read_text().splitlines():
                 if line.startswith("YOUTUBE_API_KEY="):
@@ -38,7 +38,7 @@ def run_benchmark(workers: int, runs: int, hops: int, watch_time: int,
     out_dir.mkdir(parents=True, exist_ok=True)
 
     cmd = [
-        sys.executable, "run_crawls.py",
+        sys.executable, str(Path(__file__).parent.parent / "crawling" / "run_crawls.py"),
         "-r", str(runs),
         "-n", str(hops),
         "-x", str(watch_time),

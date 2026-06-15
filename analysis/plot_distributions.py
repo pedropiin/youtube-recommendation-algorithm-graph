@@ -26,16 +26,16 @@ import networkx as nx
 
 
 DEFAULT_TARGETS = [
-    ("output_graph/full/31_03_26/graph.gexf", "31_03_26"),
-    ("output_graph/full/01_04_26/graph.gexf", "01_04_26"),
-    ("output_graph/full/02_04_26/graph.gexf", "02_04_26"),
-    ("output_graph/full/03_04_26/graph.gexf", "03_04_26"),
-    ("output_graph/full/full/graph.gexf", "full"),
+    ("../graphs_as_gexf/final/31_03_26.gexf", "31_03_26"),
+    ("../graphs_as_gexf/final/01_04_26.gexf", "01_04_26"),
+    ("../graphs_as_gexf/final/02_04_26.gexf", "02_04_26"),
+    ("../graphs_as_gexf/final/03_04_26.gexf", "03_04_26"),
+    ("../graphs_as_gexf/final/final.gexf",     "full"),
 ]
 
 
 def plot_degree_distribution(G: nx.DiGraph, output_path: Path, label: str) -> None:
-    """Plot in and out degree distributions as linear histograms."""
+    """Plot in and out degree distributions as log-log scatter (degree k vs count)."""
     in_degrees = [d for _, d in G.in_degree()]
     out_degrees = [d for _, d in G.out_degree()]
 
@@ -48,13 +48,20 @@ def plot_degree_distribution(G: nx.DiGraph, output_path: Path, label: str) -> No
         (axes[0], in_degrees, "Grau de entrada", "#4a90d9"),
         (axes[1], out_degrees, "Grau de saída", "#d94a4a"),
     ]:
-        max_d = max(degrees) if degrees else 0
-        ax.hist(degrees, bins=range(0, max_d + 2), color=color,
-                edgecolor="white", alpha=0.85)
+        freq = Counter(degrees)
+        ks = sorted(freq.keys())
+        counts = [freq[k] for k in ks]
+        # exclude k=0 from log axis (undefined in log scale)
+        ks_nonzero = [k for k in ks if k > 0]
+        counts_nonzero = [freq[k] for k in ks_nonzero]
+        ax.scatter(ks_nonzero, counts_nonzero, color=color, s=30, alpha=0.85,
+                   edgecolors="white", linewidths=0.4)
+        ax.set_xscale("log")
+        ax.set_yscale("log")
         ax.set_title(title)
         ax.set_xlabel("Grau k")
         ax.set_ylabel("Número de vértices")
-        ax.grid(True, alpha=0.3)
+        ax.grid(True, which="both", alpha=0.3)
 
     plt.tight_layout(rect=[0, 0, 1, 0.94])
     plt.savefig(output_path, dpi=150)
